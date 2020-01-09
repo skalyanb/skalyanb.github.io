@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amit Chakrabarti | Suman Kalyan Bera</title>
+    <link>https://skalyanb.github.io/authors/amit-chakrabarti/</link>
+      <atom:link href="https://skalyanb.github.io/authors/amit-chakrabarti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amit Chakrabarti</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://skalyanb.github.io/img/icon-192.png</url>
+      <title>Amit Chakrabarti</title>
+      <link>https://skalyanb.github.io/authors/amit-chakrabarti/</link>
+    </image>
+    
+    <item>
+      <title>Graph Coloring via Degeneracy in Streaming and Other Space-Conscious Models</title>
+      <link>https://skalyanb.github.io/publication/bera-2019-graph/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2019-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards tighter space bounds for counting triangles and other substructures in graph streams</title>
+      <link>https://skalyanb.github.io/publication/bera-2017-towards/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2017-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A depth-five lower bound for iterated matrix multiplication</title>
+      <link>https://skalyanb.github.io/publication/bera-2015-depth/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2015-depth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,22 +1,102 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>An example conference paper | Suman Kalyan Bera</title>
+    <title>Publications | Suman Kalyan Bera</title>
     <link>https://skalyanb.github.io/publication/</link>
       <atom:link href="https://skalyanb.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>An example conference paper</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://skalyanb.github.io/img/icon-192.png</url>
-      <title>An example conference paper</title>
+      <title>Publications</title>
       <link>https://skalyanb.github.io/publication/</link>
     </image>
     
     <item>
-      <title>BC17</title>
-      <link>https://skalyanb.github.io/publication/bc17/</link>
-      <pubDate>Wed, 08 Jan 2020 16:36:31 -0800</pubDate>
-      <guid>https://skalyanb.github.io/publication/bc17/</guid>
+      <title>Linear Time Subgraph Counting, Graph Degeneracy, and the Chasm at Size Six</title>
+      <link>https://skalyanb.github.io/publication/bera-2020-linear/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2020-linear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fair algorithms for clustering</title>
+      <link>https://skalyanb.github.io/publication/bera-2019-fair/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2019-fair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Coloring via Degeneracy in Streaming and Other Space-Conscious Models</title>
+      <link>https://skalyanb.github.io/publication/bera-2019-graph/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2019-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subgraph Counting and Vertex Coloring in Large Graphs</title>
+      <link>https://skalyanb.github.io/publication/bera-2019-subgraph/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2019-subgraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards tighter space bounds for counting triangles and other substructures in graph streams</title>
+      <link>https://skalyanb.github.io/publication/bera-2017-towards/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2017-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimizing average flow-time under knapsack constraint</title>
+      <link>https://skalyanb.github.io/publication/bera-2016-minimizing/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2016-minimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A depth-five lower bound for iterated matrix multiplication</title>
+      <link>https://skalyanb.github.io/publication/bera-2015-depth/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2015-depth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximation algorithms for the partition vertex cover problem</title>
+      <link>https://skalyanb.github.io/publication/bera-2014-approximation/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2014-approximation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fenchel duals for drifting adversaries</title>
+      <link>https://skalyanb.github.io/publication/bera-2013-fenchel/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2013-fenchel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streaming quotient filter: A near optimal approximate duplicate detection approach for data streams</title>
+      <link>https://skalyanb.github.io/publication/dutta-2013-streaming/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/dutta-2013-streaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced bloom filter based algorithms for efficient approximate data de-duplication in streams</title>
+      <link>https://skalyanb.github.io/publication/bera-2012-advanced/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2012-advanced/</guid>
       <description></description>
     </item>
     
