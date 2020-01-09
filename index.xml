@@ -5,12 +5,20 @@
     <link>https://skalyanb.github.io/</link>
       <atom:link href="https://skalyanb.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Suman Kalyan Bera</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jan 2020 16:36:31 -0800</lastBuildDate>
     <image>
       <url>https://skalyanb.github.io/img/icon-192.png</url>
       <title>Suman Kalyan Bera</title>
       <link>https://skalyanb.github.io/</link>
     </image>
+    
+    <item>
+      <title>BC17</title>
+      <link>https://skalyanb.github.io/publication/bc17/</link>
+      <pubDate>Wed, 08 Jan 2020 16:36:31 -0800</pubDate>
+      <guid>https://skalyanb.github.io/publication/bc17/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
