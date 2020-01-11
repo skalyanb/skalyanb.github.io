@@ -7,7 +7,7 @@
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://skalyanb.github.io/img/icon-192.png</url>
+      <url>https://skalyanb.github.io/images/icon_huc03e45d0f90c30d0bff279f9b196c6f8_346669_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>https://skalyanb.github.io/authors/</link>
     </image>
@@ -17,6 +17,14 @@
       <link>https://skalyanb.github.io/authors/c-seshadhri/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/authors/c-seshadhri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Seshadhri</title>
+      <link>https://skalyanb.github.io/authors/c.-seshadhri/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/authors/c.-seshadhri/</guid>
       <description></description>
     </item>
     
@@ -37,9 +45,17 @@
     </item>
     
     <item>
+      <title>Amit Chakrabarti</title>
+      <link>https://skalyanb.github.io/authors/amit-chakrabarti/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/authors/amit-chakrabarti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deeparnab Chakrabarty</title>
       <link>https://skalyanb.github.io/authors/deeparnab-chakrabarty/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/authors/deeparnab-chakrabarty/</guid>
       <description></description>
     </item>
@@ -47,7 +63,7 @@
     <item>
       <title>Maryam Negahbani</title>
       <link>https://skalyanb.github.io/authors/maryam-negahbani/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/authors/maryam-negahbani/</guid>
       <description></description>
     </item>
@@ -55,16 +71,8 @@
     <item>
       <title>Nicolas Flores</title>
       <link>https://skalyanb.github.io/authors/nicolas-flores/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
-      <guid>https://skalyanb.github.io/authors/nicolas-flores/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Amit Chakrabarti</title>
-      <link>https://skalyanb.github.io/authors/amit-chakrabarti/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://skalyanb.github.io/authors/amit-chakrabarti/</guid>
+      <guid>https://skalyanb.github.io/authors/nicolas-flores/</guid>
       <description></description>
     </item>
     

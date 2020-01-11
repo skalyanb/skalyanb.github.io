@@ -7,10 +7,26 @@
     <description>Suman K Bera</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://skalyanb.github.io/img/icon-192.png</url>
+      <url>https://skalyanb.github.io/images/icon_huc03e45d0f90c30d0bff279f9b196c6f8_346669_512x512_fill_lanczos_center_2.png</url>
       <title>Suman K Bera</title>
       <link>https://skalyanb.github.io/authors/suman-k-bera/</link>
     </image>
+    
+    <item>
+      <title>How the degeneracy helps for triangle counting in graph streams</title>
+      <link>https://skalyanb.github.io/publication/bera-2020-degen/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2020-degen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to count triangles, without seeing the whole graph</title>
+      <link>https://skalyanb.github.io/publication/bera-2020-random_walk/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2020-random_walk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Linear Time Subgraph Counting, Graph Degeneracy, and the Chasm at Size Six</title>
@@ -23,7 +39,7 @@
     <item>
       <title>Fair algorithms for clustering</title>
       <link>https://skalyanb.github.io/publication/bera-2019-fair/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/publication/bera-2019-fair/</guid>
       <description></description>
     </item>
@@ -70,9 +86,9 @@
     
     <item>
       <title>Fenchel duals for drifting adversaries</title>
-      <link>https://skalyanb.github.io/manuscripts/bera-2013-fenchel/</link>
+      <link>https://skalyanb.github.io/publication/bera-2013-fenchel/</link>
       <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://skalyanb.github.io/manuscripts/bera-2013-fenchel/</guid>
+      <guid>https://skalyanb.github.io/publication/bera-2013-fenchel/</guid>
       <description></description>
     </item>
     
@@ -86,9 +102,9 @@
     
     <item>
       <title>Advanced bloom filter based algorithms for efficient approximate data de-duplication in streams</title>
-      <link>https://skalyanb.github.io/manuscripts/bera-2012-advanced/</link>
+      <link>https://skalyanb.github.io/publication/bera-2012-advanced/</link>
       <pubDate>Mon, 17 Dec 2012 00:00:00 +0000</pubDate>
-      <guid>https://skalyanb.github.io/manuscripts/bera-2012-advanced/</guid>
+      <guid>https://skalyanb.github.io/publication/bera-2012-advanced/</guid>
       <description></description>
     </item>
     

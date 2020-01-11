@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Seshadhri | Suman Kalyan Bera</title>
+    <link>https://skalyanb.github.io/authors/c.-seshadhri/</link>
+      <atom:link href="https://skalyanb.github.io/authors/c.-seshadhri/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Seshadhri</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://skalyanb.github.io/images/icon_huc03e45d0f90c30d0bff279f9b196c6f8_346669_512x512_fill_lanczos_center_2.png</url>
+      <title>C. Seshadhri</title>
+      <link>https://skalyanb.github.io/authors/c.-seshadhri/</link>
+    </image>
+    
+    <item>
+      <title>How the degeneracy helps for triangle counting in graph streams</title>
+      <link>https://skalyanb.github.io/publication/bera-2020-degen/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2020-degen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to count triangles, without seeing the whole graph</title>
+      <link>https://skalyanb.github.io/publication/bera-2020-random_walk/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2020-random_walk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
