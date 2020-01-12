@@ -61,14 +61,6 @@
     </item>
     
     <item>
-      <title>Minimizing average flow-time under knapsack constraint</title>
-      <link>https://skalyanb.github.io/publication/bera-2016-minimizing/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://skalyanb.github.io/publication/bera-2016-minimizing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A depth-five lower bound for iterated matrix multiplication</title>
       <link>https://skalyanb.github.io/publication/bera-2015-depth/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
@@ -77,10 +69,10 @@
     </item>
     
     <item>
-      <title>Approximation algorithms for the partition vertex cover problem</title>
-      <link>https://skalyanb.github.io/publication/bera-2014-approximation/</link>
+      <title>Minimizing average flow-time under knapsack constraint</title>
+      <link>https://skalyanb.github.io/publication/bera-2016-minimizing/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://skalyanb.github.io/publication/bera-2014-approximation/</guid>
+      <guid>https://skalyanb.github.io/publication/bera-2016-minimizing/</guid>
       <description></description>
     </item>
     
@@ -89,6 +81,14 @@
       <link>https://skalyanb.github.io/publication/bera-2013-fenchel/</link>
       <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/publication/bera-2013-fenchel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximation algorithms for the partition vertex cover problem</title>
+      <link>https://skalyanb.github.io/publication/bera-2014-approximation/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2014-approximation/</guid>
       <description></description>
     </item>
     
