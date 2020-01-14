@@ -209,6 +209,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156058206-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-156058206-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -340,7 +376,7 @@
 
     
     
-    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
       
       <ul class="navbar-nav d-md-inline-flex">
@@ -734,7 +770,7 @@
 
 
   
-  <span><a href="/authors/suman-k-bera/">Suman K Bera</a></span>, <span><a href="/authors/c-seshadhri/">C. Seshadhri</a></span>
+  <span>Suman K Bera</span>, <span>C. Seshadhri</span>
 
       </div>
       
@@ -821,7 +857,7 @@
 
 
   
-  <span><a href="/authors/suman-k-bera/">Suman K Bera</a></span>, <span><a href="/authors/c-seshadhri/">C. Seshadhri</a></span>
+  <span>Suman K Bera</span>, <span>C. Seshadhri</span>
 
       </div>
       
@@ -908,7 +944,7 @@
 
 
   
-  <span><a href="/authors/suman-k-bera/">Suman K Bera</a></span>, <span><a href="/authors/amit-chakrabarti/">Amit Chakrabarti</a></span>, <span><a href="/authors/prantar-ghosh/">Prantar Ghosh</a></span>
+  <span>Suman K Bera</span>, <span>Amit Chakrabarti</span>, <span>Prantar Ghosh</span>
 
       </div>
       
@@ -1090,7 +1126,7 @@
 
 
   
-  <span><a href="/authors/suman-k-bera/">Suman K Bera</a></span>, <span><a href="/authors/noujan-pashanasangi/">Noujan Pashanasangi</a></span>, <span><a href="/authors/c-seshadhri/">C Seshadhri</a></span>
+  <span>Suman K Bera</span>, <span>Noujan Pashanasangi</span>, <span>C Seshadhri</span>
 
   </span>
   (2020).
@@ -1168,7 +1204,7 @@
 
 
   
-  <span><a href="/authors/suman-k-bera/">Suman K Bera</a></span>, <span><a href="/authors/deeparnab-chakrabarty/">Deeparnab Chakrabarty</a></span>, <span><a href="/authors/nicolas-flores/">Nicolas Flores</a></span>, <span><a href="/authors/maryam-negahbani/">Maryam Negahbani</a></span>
+  <span>Suman K Bera</span>, <span>Deeparnab Chakrabarty</span>, <span>Nicolas Flores</span>, <span>Maryam Negahbani</span>
 
   </span>
   (2019).
@@ -1270,7 +1306,7 @@
 
 
   
-  <span><a href="/authors/suman-k-bera/">Suman K Bera</a></span>, <span><a href="/authors/amit-chakrabarti/">Amit Chakrabarti</a></span>
+  <span>Suman K Bera</span>, <span>Amit Chakrabarti</span>
 
   </span>
   (2017).
@@ -1332,7 +1368,7 @@
 
 
   
-  <span><a href="/authors/suman-k-bera/">Suman K Bera</a></span>, <span><a href="/authors/amit-chakrabarti/">Amit Chakrabarti</a></span>
+  <span>Suman K Bera</span>, <span>Amit Chakrabarti</span>
 
   </span>
   (2015).
@@ -1394,7 +1430,7 @@
 
 
   
-  <span><a href="/authors/suman-k-bera/">Suman K Bera</a></span>, <span><a href="/authors/syamantak-das/">Syamantak Das</a></span>, <span><a href="/authors/amit-kumar/">Amit Kumar</a></span>
+  <span>Suman K Bera</span>, <span>Syamantak Das</span>, <span>Amit Kumar</span>
 
   </span>
   (2014).
@@ -1456,7 +1492,7 @@
 
 
   
-  <span><a href="/authors/suman-k-bera/">Suman K Bera</a></span>, <span><a href="/authors/shalmoli-gupta/">Shalmoli Gupta</a></span>, <span><a href="/authors/amit-kumar/">Amit Kumar</a></span>, <span><a href="/authors/sambuddha-roy/">Sambuddha Roy</a></span>
+  <span>Suman K Bera</span>, <span>Shalmoli Gupta</span>, <span>Amit Kumar</span>, <span>Sambuddha Roy</span>
 
   </span>
   (2013).
@@ -1518,7 +1554,7 @@
 
 
   
-  <span><a href="/authors/sourav-dutta/">Sourav Dutta</a></span>, <span><a href="/authors/ankur-narang/">Ankur Narang</a></span>, <span><a href="/authors/suman-k-bera/">Suman K Bera</a></span>
+  <span>Sourav Dutta</span>, <span>Ankur Narang</span>, <span>Suman K Bera</span>
 
   </span>
   (2013).
@@ -1709,7 +1745,7 @@
 
 
   
-  <span><a href="/authors/suman-k-bera/">Suman K Bera</a></span>, <span><a href="/authors/anamitra-r-choudhury/">Anamitra R Choudhury</a></span>, <span><a href="/authors/syamantak-das/">Syamantak Das</a></span>, <span><a href="/authors/sambuddha-roy/">Sambuddha Roy</a></span>, <span><a href="/authors/jayram-s-thatchachar/">Jayram S Thatchachar</a></span>
+  <span>Suman K Bera</span>, <span>Anamitra R Choudhury</span>, <span>Syamantak Das</span>, <span>Sambuddha Roy</span>, <span>Jayram S Thatchachar</span>
 
       </div>
       
@@ -1802,7 +1838,7 @@
 
 
   
-  <span><a href="/authors/suman-k-bera/">Suman K Bera</a></span>, <span><a href="/authors/sourav-dutta/">Sourav Dutta</a></span>, <span><a href="/authors/ankur-narang/">Ankur Narang</a></span>, <span><a href="/authors/souvik-bhattacherjee/">Souvik Bhattacherjee</a></span>
+  <span>Suman K Bera</span>, <span>Sourav Dutta</span>, <span>Ankur Narang</span>, <span>Souvik Bhattacherjee</span>
 
       </div>
       

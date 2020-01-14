@@ -209,6 +209,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156058206-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-156058206-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -372,7 +408,7 @@
 
     
     
-    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
       
       <ul class="navbar-nav d-md-inline-flex">
@@ -504,7 +540,7 @@
 
 
   
-  <span><a href="/authors/suman-k-bera/">Suman K Bera</a></span>, <span><a href="/authors/syamantak-das/">Syamantak Das</a></span>, <span><a href="/authors/amit-kumar/">Amit Kumar</a></span>
+  <span>Suman K Bera</span>, <span>Syamantak Das</span>, <span>Amit Kumar</span>
 
   </div>
   
