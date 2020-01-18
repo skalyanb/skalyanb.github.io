@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>https://skalyanb.github.io/categories/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://skalyanb.github.io/publication/bera-2020-degen/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -38,7 +43,7 @@
   </url>
   
   <url>
-    <loc>https://skalyanb.github.io/tags/in-submission/</loc>
+    <loc>https://skalyanb.github.io/categories/in-submission/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,7 +63,7 @@
   </url>
   
   <url>
-    <loc>https://skalyanb.github.io/tags/published/</loc>
+    <loc>https://skalyanb.github.io/categories/published/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,12 +78,12 @@
   </url>
   
   <url>
-    <loc>https://skalyanb.github.io/tags/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>https://skalyanb.github.io/authors/amit-chakrabarti/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://skalyanb.github.io/authors/amit-chakrabarti/</loc>
+    <loc>https://skalyanb.github.io/tags/clustering/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -89,6 +94,11 @@
   
   <url>
     <loc>https://skalyanb.github.io/publication/bera-2019-fair/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/tags/fairness/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -109,6 +119,11 @@
   
   <url>
     <loc>https://skalyanb.github.io/authors/prantar-ghosh/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/tags/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -163,7 +178,7 @@
   </url>
   
   <url>
-    <loc>https://skalyanb.github.io/tags/manuscripts/</loc>
+    <loc>https://skalyanb.github.io/categories/manuscripts/</loc>
     <lastmod>2013-09-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -210,10 +225,6 @@
   <url>
     <loc>https://skalyanb.github.io/authors/admin/</loc>
     <lastmod>2019-11-24T14:42:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/categories/</loc>
   </url>
   
   <url>
