@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>How to count triangles, without seeing the whole graph</title>
+      <link>https://skalyanb.github.io/publication/bera-2020-random_walk/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2020-random_walk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>How the degeneracy helps for triangle counting in graph streams</title>
       <link>https://skalyanb.github.io/publication/bera-2020-degen/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/publication/bera-2020-degen/</guid>
       <description></description>
     </item>
