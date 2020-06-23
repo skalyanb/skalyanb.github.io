@@ -5,7 +5,7 @@
     <link>https://skalyanb.github.io/authors/</link>
       <atom:link href="https://skalyanb.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://skalyanb.github.io/images/icon_huc03e45d0f90c30d0bff279f9b196c6f8_346669_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Amit Chakrabarti</title>
       <link>https://skalyanb.github.io/authors/amit-chakrabarti/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/authors/amit-chakrabarti/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Prantar Ghosh</title>
       <link>https://skalyanb.github.io/authors/prantar-ghosh/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/authors/prantar-ghosh/</guid>
       <description></description>
     </item>
@@ -31,8 +31,16 @@
     <item>
       <title>Suman K Bera</title>
       <link>https://skalyanb.github.io/authors/suman-k-bera/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/authors/suman-k-bera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Seshadhri</title>
+      <link>https://skalyanb.github.io/authors/c.-seshadhri/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/authors/c.-seshadhri/</guid>
       <description></description>
     </item>
     
@@ -41,14 +49,6 @@
       <link>https://skalyanb.github.io/authors/c-seshadhri/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/authors/c-seshadhri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C. Seshadhri</title>
-      <link>https://skalyanb.github.io/authors/c.-seshadhri/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://skalyanb.github.io/authors/c.-seshadhri/</guid>
       <description></description>
     </item>
     

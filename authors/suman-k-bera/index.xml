@@ -5,7 +5,7 @@
     <link>https://skalyanb.github.io/authors/suman-k-bera/</link>
       <atom:link href="https://skalyanb.github.io/authors/suman-k-bera/index.xml" rel="self" type="application/rss+xml" />
     <description>Suman K Bera</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://skalyanb.github.io/images/icon_huc03e45d0f90c30d0bff279f9b196c6f8_346669_512x512_fill_lanczos_center_2.png</url>
       <title>Suman K Bera</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Graph Coloring via Degeneracy in Streaming and Other Space-Conscious Models</title>
       <link>https://skalyanb.github.io/publication/bera-2019-graph/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/publication/bera-2019-graph/</guid>
       <description></description>
     </item>
@@ -23,16 +23,8 @@
     <item>
       <title>How the degeneracy helps for triangle counting in graph streams</title>
       <link>https://skalyanb.github.io/publication/bera-2020-degen/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/publication/bera-2020-degen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How to count triangles, without seeing the whole graph</title>
-      <link>https://skalyanb.github.io/publication/bera-2020-random_walk/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://skalyanb.github.io/publication/bera-2020-random_walk/</guid>
       <description></description>
     </item>
     
