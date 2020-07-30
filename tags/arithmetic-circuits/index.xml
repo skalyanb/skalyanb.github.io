@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arithmetic Circuits | Suman Kalyan Bera</title>
+    <link>https://skalyanb.github.io/tags/arithmetic-circuits/</link>
+      <atom:link href="https://skalyanb.github.io/tags/arithmetic-circuits/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arithmetic Circuits</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://skalyanb.github.io/images/icon_huc03e45d0f90c30d0bff279f9b196c6f8_346669_512x512_fill_lanczos_center_2.png</url>
+      <title>Arithmetic Circuits</title>
+      <link>https://skalyanb.github.io/tags/arithmetic-circuits/</link>
+    </image>
+    
+    <item>
+      <title>A Depth-Five Lower Bound for Iterated Matrix Multiplication</title>
+      <link>https://skalyanb.github.io/publication/bera-2015-depth/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2015-depth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

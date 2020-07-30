@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suman K. Bera | Suman Kalyan Bera</title>
+    <link>https://skalyanb.github.io/authors/suman-k.-bera/</link>
+      <atom:link href="https://skalyanb.github.io/authors/suman-k.-bera/index.xml" rel="self" type="application/rss+xml" />
+    <description>Suman K. Bera</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jul 2020 22:36:32 -0700</lastBuildDate>
+    <image>
+      <url>https://skalyanb.github.io/images/icon_huc03e45d0f90c30d0bff279f9b196c6f8_346669_512x512_fill_lanczos_center_2.png</url>
+      <title>Suman K. Bera</title>
+      <link>https://skalyanb.github.io/authors/suman-k.-bera/</link>
+    </image>
+    
+    <item>
+      <title>Near-Linear Time Homomorphism Counting in Bounded Degeneracy Graphs: The Barrier of Long Induced Cycles</title>
+      <link>https://skalyanb.github.io/publication/bera-2020-homomorphism/</link>
+      <pubDate>Mon, 27 Jul 2020 22:36:32 -0700</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2020-homomorphism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributional Individual Fairness in Clustering</title>
+      <link>https://skalyanb.github.io/publication/anderson-2020-distributional/</link>
+      <pubDate>Mon, 27 Jul 2020 21:33:11 -0700</pubDate>
+      <guid>https://skalyanb.github.io/publication/anderson-2020-distributional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Count Triangles, without Seeing the Whole Graph</title>
+      <link>https://skalyanb.github.io/publication/bera-2020-random_walk/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2020-random_walk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How the Degeneracy Helps for Triangle Counting in Graph Streams</title>
+      <link>https://skalyanb.github.io/publication/bera-2020-degen/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2020-degen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Coloring via Degeneracy in Streaming and Other Space-Conscious Models</title>
+      <link>https://skalyanb.github.io/publication/bera-2019-graph/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2019-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Time Subgraph Counting, Graph Degeneracy, and the Chasm at Size Six</title>
+      <link>https://skalyanb.github.io/publication/bera-2020-linear/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2020-linear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fair Algorithms for Clustering</title>
+      <link>https://skalyanb.github.io/publication/bera-2019-fair/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2019-fair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Tighter Space Bounds for Counting Triangles and Other Substructures in Graph Streams</title>
+      <link>https://skalyanb.github.io/publication/bera-2017-towards/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2017-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Depth-Five Lower Bound for Iterated Matrix Multiplication</title>
+      <link>https://skalyanb.github.io/publication/bera-2015-depth/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2015-depth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimizing Average Flow-Time under Knapsack Constraint</title>
+      <link>https://skalyanb.github.io/publication/bera-2016-minimizing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2016-minimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fenchel Duals for Drifting Adversaries</title>
+      <link>https://skalyanb.github.io/publication/bera-2013-fenchel/</link>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2013-fenchel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximation Algorithms for the Partition Vertex Cover Problem</title>
+      <link>https://skalyanb.github.io/publication/bera-2014-approximation/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2014-approximation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streaming Quotient Filter: A Near Optimal Approximate Duplicate Detection Approach for Data Streams</title>
+      <link>https://skalyanb.github.io/publication/dutta-2013-streaming/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/dutta-2013-streaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced Bloom Filter Based Algorithms for Efficient Approximate Data De-Duplication in Streams</title>
+      <link>https://skalyanb.github.io/publication/bera-2012-advanced/</link>
+      <pubDate>Mon, 17 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2012-advanced/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

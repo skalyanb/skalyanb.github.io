@@ -3,218 +3,303 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://skalyanb.github.io/publication_types/1/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <loc>https://skalyanb.github.io/publication_types/3/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/authors/c.-seshadhrihttps/users.soe.ucsc.edu/~sesh/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/authors/noujan-pashanasangihttps/users.soe.ucsc.edu/~npasha/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/authors/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/authors/c.-seshadhri/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/categories/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://skalyanb.github.io/publication/bera-2020-random_walk/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <loc>https://skalyanb.github.io/tags/graph-algorithms/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/tags/graph-mining/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/categories/in-submission/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/tags/lower-bounds/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/publication/bera-2020-homomorphism/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/publication_types/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://skalyanb.github.io/categories/published/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <loc>https://skalyanb.github.io/tags/subgraph-counting/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://skalyanb.github.io/authors/suman-k-bera/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <loc>https://skalyanb.github.io/authors/suman-k.-bera/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/publication/bera-2020-degen/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/authors/amit-chakrabarti/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/publication/bera-2019-graph/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/authors/prantar-ghosh/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/authors/c-seshadhri/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/publication/bera-2020-linear/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/authors/noujan-pashanasangi/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/tags/clustering/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/authors/deeparnab-chakrabarty/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/publication/bera-2019-fair/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/tags/fairness/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/authors/maryam-negahbani/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/authors/nicolas-flores/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/tags/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/authors/syamantak-dashttp/faculty.iiitd.ac.in/~syamantak/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/authors/yang-liuhttp/www.yliuu.com/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/tags/clustering/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/publication/anderson-2020-distributional/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/tags/fairness-in-ml/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/authors/nihesh-anderson/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/publication_types/1/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/tags/graph-crawling/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/publication/bera-2020-random_walk/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/categories/published/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/tags/random-walk/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/tags/triangle-counting/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/publication/bera-2020-degen/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/tags/streaming-model/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/authors/amit-chakrabartihttps/www.cs.dartmouth.edu/~ac/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/authors/prantar-ghoshhttps/sites.google.com/view/prantarg/home/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/tags/graph-coloring/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/publication/bera-2019-graph/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/publication/bera-2020-linear/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/authors/deeparnab-chakrabartyhttps/www.cs.dartmouth.edu/~deepc/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/authors/maryam-negahbanihttps/www.cs.dartmouth.edu/~maryam/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/publication/bera-2019-fair/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/authors/nicolas-flores/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/publication/bera-2017-towards/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/publication/bera-2015-depth/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/tags/arithmetic-circuits/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/tags/complexity-theory/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/publication_types/2/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://skalyanb.github.io/authors/amit-kumar/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <loc>https://skalyanb.github.io/authors/amit-kumarhttp/www.cse.iitd.ernet.in/~amitk/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/publication/bera-2016-minimizing/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/authors/syamantak-das/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/publication_types/4/</loc>
-    <lastmod>2013-09-23T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/authors/anamitra-r-choudhury/</loc>
-    <lastmod>2013-09-23T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/publication/bera-2013-fenchel/</loc>
-    <lastmod>2013-09-23T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/authors/jayram-s-thatchachar/</loc>
-    <lastmod>2013-09-23T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/categories/manuscripts/</loc>
-    <lastmod>2013-09-23T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/authors/sambuddha-roy/</loc>
-    <lastmod>2013-09-23T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/authors/syamantak-das/</loc>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/authors/ankur-narang/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/publication/bera-2014-approximation/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/authors/shalmoli-gupta/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/authors/sourav-dutta/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/publication/dutta-2013-streaming/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/publication/bera-2012-advanced/</loc>
-    <lastmod>2012-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/authors/souvik-bhattacherjee/</loc>
-    <lastmod>2012-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/authors/admin/</loc>
-    <lastmod>2019-11-24T14:42:22+00:00</lastmod>
+    <lastmod>2020-07-27T20:29:47-07:00</lastmod>
   </url>
   
   <url>
@@ -224,7 +309,7 @@
   
   <url>
     <loc>https://skalyanb.github.io/publication/</loc>
-    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
   <url>

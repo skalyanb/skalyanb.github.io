@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>clustering | Suman Kalyan Bera</title>
+    <title>Clustering | Suman Kalyan Bera</title>
     <link>https://skalyanb.github.io/tags/clustering/</link>
       <atom:link href="https://skalyanb.github.io/tags/clustering/index.xml" rel="self" type="application/rss+xml" />
-    <description>clustering</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <description>Clustering</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jul 2020 21:33:11 -0700</lastBuildDate>
     <image>
       <url>https://skalyanb.github.io/images/icon_huc03e45d0f90c30d0bff279f9b196c6f8_346669_512x512_fill_lanczos_center_2.png</url>
-      <title>clustering</title>
+      <title>Clustering</title>
       <link>https://skalyanb.github.io/tags/clustering/</link>
     </image>
     
     <item>
-      <title>Fair algorithms for clustering</title>
+      <title>Distributional Individual Fairness in Clustering</title>
+      <link>https://skalyanb.github.io/publication/anderson-2020-distributional/</link>
+      <pubDate>Mon, 27 Jul 2020 21:33:11 -0700</pubDate>
+      <guid>https://skalyanb.github.io/publication/anderson-2020-distributional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fair Algorithms for Clustering</title>
       <link>https://skalyanb.github.io/publication/bera-2019-fair/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/publication/bera-2019-fair/</guid>

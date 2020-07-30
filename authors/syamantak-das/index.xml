@@ -5,7 +5,7 @@
     <link>https://skalyanb.github.io/authors/syamantak-das/</link>
       <atom:link href="https://skalyanb.github.io/authors/syamantak-das/index.xml" rel="self" type="application/rss+xml" />
     <description>Syamantak Das</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://skalyanb.github.io/images/icon_huc03e45d0f90c30d0bff279f9b196c6f8_346669_512x512_fill_lanczos_center_2.png</url>
       <title>Syamantak Das</title>
@@ -13,15 +13,7 @@
     </image>
     
     <item>
-      <title>Minimizing average flow-time under knapsack constraint</title>
-      <link>https://skalyanb.github.io/publication/bera-2016-minimizing/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://skalyanb.github.io/publication/bera-2016-minimizing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fenchel duals for drifting adversaries</title>
+      <title>Fenchel Duals for Drifting Adversaries</title>
       <link>https://skalyanb.github.io/publication/bera-2013-fenchel/</link>
       <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/publication/bera-2013-fenchel/</guid>

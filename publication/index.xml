@@ -13,7 +13,23 @@
     </image>
     
     <item>
-      <title>How to count triangles, without seeing the whole graph</title>
+      <title>Near-Linear Time Homomorphism Counting in Bounded Degeneracy Graphs: The Barrier of Long Induced Cycles</title>
+      <link>https://skalyanb.github.io/publication/bera-2020-homomorphism/</link>
+      <pubDate>Mon, 27 Jul 2020 22:36:32 -0700</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2020-homomorphism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributional Individual Fairness in Clustering</title>
+      <link>https://skalyanb.github.io/publication/anderson-2020-distributional/</link>
+      <pubDate>Mon, 27 Jul 2020 21:33:11 -0700</pubDate>
+      <guid>https://skalyanb.github.io/publication/anderson-2020-distributional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Count Triangles, without Seeing the Whole Graph</title>
       <link>https://skalyanb.github.io/publication/bera-2020-random_walk/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/publication/bera-2020-random_walk/</guid>
@@ -21,7 +37,7 @@
     </item>
     
     <item>
-      <title>How the degeneracy helps for triangle counting in graph streams</title>
+      <title>How the Degeneracy Helps for Triangle Counting in Graph Streams</title>
       <link>https://skalyanb.github.io/publication/bera-2020-degen/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/publication/bera-2020-degen/</guid>
@@ -45,7 +61,7 @@
     </item>
     
     <item>
-      <title>Fair algorithms for clustering</title>
+      <title>Fair Algorithms for Clustering</title>
       <link>https://skalyanb.github.io/publication/bera-2019-fair/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/publication/bera-2019-fair/</guid>
@@ -53,7 +69,7 @@
     </item>
     
     <item>
-      <title>Towards tighter space bounds for counting triangles and other substructures in graph streams</title>
+      <title>Towards Tighter Space Bounds for Counting Triangles and Other Substructures in Graph Streams</title>
       <link>https://skalyanb.github.io/publication/bera-2017-towards/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/publication/bera-2017-towards/</guid>
@@ -61,7 +77,7 @@
     </item>
     
     <item>
-      <title>A depth-five lower bound for iterated matrix multiplication</title>
+      <title>A Depth-Five Lower Bound for Iterated Matrix Multiplication</title>
       <link>https://skalyanb.github.io/publication/bera-2015-depth/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/publication/bera-2015-depth/</guid>
@@ -69,7 +85,7 @@
     </item>
     
     <item>
-      <title>Minimizing average flow-time under knapsack constraint</title>
+      <title>Minimizing Average Flow-Time under Knapsack Constraint</title>
       <link>https://skalyanb.github.io/publication/bera-2016-minimizing/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/publication/bera-2016-minimizing/</guid>
@@ -77,7 +93,7 @@
     </item>
     
     <item>
-      <title>Fenchel duals for drifting adversaries</title>
+      <title>Fenchel Duals for Drifting Adversaries</title>
       <link>https://skalyanb.github.io/publication/bera-2013-fenchel/</link>
       <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/publication/bera-2013-fenchel/</guid>
@@ -85,7 +101,7 @@
     </item>
     
     <item>
-      <title>Approximation algorithms for the partition vertex cover problem</title>
+      <title>Approximation Algorithms for the Partition Vertex Cover Problem</title>
       <link>https://skalyanb.github.io/publication/bera-2014-approximation/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/publication/bera-2014-approximation/</guid>
@@ -93,7 +109,7 @@
     </item>
     
     <item>
-      <title>Streaming quotient filter: A near optimal approximate duplicate detection approach for data streams</title>
+      <title>Streaming Quotient Filter: A Near Optimal Approximate Duplicate Detection Approach for Data Streams</title>
       <link>https://skalyanb.github.io/publication/dutta-2013-streaming/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/publication/dutta-2013-streaming/</guid>
@@ -101,7 +117,7 @@
     </item>
     
     <item>
-      <title>Advanced bloom filter based algorithms for efficient approximate data de-duplication in streams</title>
+      <title>Advanced Bloom Filter Based Algorithms for Efficient Approximate Data De-Duplication in Streams</title>
       <link>https://skalyanb.github.io/publication/bera-2012-advanced/</link>
       <pubDate>Mon, 17 Dec 2012 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/publication/bera-2012-advanced/</guid>

@@ -5,7 +5,7 @@
     <link>https://skalyanb.github.io/publication_types/3/</link>
       <atom:link href="https://skalyanb.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jul 2020 22:36:32 -0700</lastBuildDate>
     <image>
       <url>https://skalyanb.github.io/images/icon_huc03e45d0f90c30d0bff279f9b196c6f8_346669_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>How to count triangles, without seeing the whole graph</title>
-      <link>https://skalyanb.github.io/publication/bera-2020-random_walk/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://skalyanb.github.io/publication/bera-2020-random_walk/</guid>
+      <title>Near-Linear Time Homomorphism Counting in Bounded Degeneracy Graphs: The Barrier of Long Induced Cycles</title>
+      <link>https://skalyanb.github.io/publication/bera-2020-homomorphism/</link>
+      <pubDate>Mon, 27 Jul 2020 22:36:32 -0700</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2020-homomorphism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributional Individual Fairness in Clustering</title>
+      <link>https://skalyanb.github.io/publication/anderson-2020-distributional/</link>
+      <pubDate>Mon, 27 Jul 2020 21:33:11 -0700</pubDate>
+      <guid>https://skalyanb.github.io/publication/anderson-2020-distributional/</guid>
       <description></description>
     </item>
     

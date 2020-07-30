@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>[Amit Kumar](http://www.cse.iitd.ernet.in/~amitk/) | Suman Kalyan Bera</title>
+    <link>https://skalyanb.github.io/authors/amit-kumarhttp/www.cse.iitd.ernet.in/~amitk/</link>
+      <atom:link href="https://skalyanb.github.io/authors/amit-kumarhttp/www.cse.iitd.ernet.in/~amitk/index.xml" rel="self" type="application/rss+xml" />
+    <description>[Amit Kumar](http://www.cse.iitd.ernet.in/~amitk/)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://skalyanb.github.io/images/icon_huc03e45d0f90c30d0bff279f9b196c6f8_346669_512x512_fill_lanczos_center_2.png</url>
+      <title>[Amit Kumar](http://www.cse.iitd.ernet.in/~amitk/)</title>
+      <link>https://skalyanb.github.io/authors/amit-kumarhttp/www.cse.iitd.ernet.in/~amitk/</link>
+    </image>
+    
+    <item>
+      <title>Minimizing Average Flow-Time under Knapsack Constraint</title>
+      <link>https://skalyanb.github.io/publication/bera-2016-minimizing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2016-minimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximation Algorithms for the Partition Vertex Cover Problem</title>
+      <link>https://skalyanb.github.io/publication/bera-2014-approximation/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2014-approximation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

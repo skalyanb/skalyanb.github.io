@@ -28,7 +28,10 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="We revisit the much-studied problem of space-efficiently estimating the number of triangles in a graph stream, and extensions of this problem to counting fixed-sized cliques and cycles, obtaining a number of new upper and lower bounds. For the important special case of counting triangles, we give a $4$-pass, $(1\pm\varepsilon)$-approximate, randomized algorithm that needs at most $\widetilde{O}(\varepsilon^{-2}\, m^{{3}/{2}}/T)$ space, where $m$ is the number of edges and $T$ is a promised lower bound on the number of triangles. This matches the space bound of a very recent algorithm (McGregor et al., PODS 2016), with an arguably simpler and more general technique. We give an improved multi-pass lower bound of $\Omega(\min  (m^{{3}/{2}}/T, m/\sqrt{T})  )$, applicable at essentially all densities $\Omega(n) \le m \le O(n^2)$. We also prove other multi-pass lower bounds in terms of various structural parameters of the input graph. Together, our results resolve a couple of open questions raised in recent work (Braverman et al., ICALP 2013).
+
+
+Our presentation emphasizes more general frameworks, for both upper and lower bounds. We give a sampling algorithm for counting arbitrary subgraphs and then improve it via combinatorial means in the special cases of counting odd cliques and odd cycles.  Our results show that these problems are considerably easier in the cash-register streaming model than in the turnstile model, where previous work had focused (Manjunath et al., ESA 2011; Kane et al., ICALP 2012).  We use Tur&#39;an graphs and related gadgets to derive lower bounds for counting cliques and cycles, with triangle-counting lower bounds following as a corollary. ">
 
   
   <link rel="alternate" hreflang="en-us" href="https://skalyanb.github.io/publication/bera-2017-towards/">
@@ -269,14 +272,17 @@
   
   <meta property="og:site_name" content="Suman Kalyan Bera">
   <meta property="og:url" content="https://skalyanb.github.io/publication/bera-2017-towards/">
-  <meta property="og:title" content="Towards tighter space bounds for counting triangles and other substructures in graph streams | Suman Kalyan Bera">
-  <meta property="og:description" content=""><meta property="og:image" content="https://skalyanb.github.io/images/icon_huc03e45d0f90c30d0bff279f9b196c6f8_346669_512x512_fill_lanczos_center_2.png">
+  <meta property="og:title" content="Towards Tighter Space Bounds for Counting Triangles and Other Substructures in Graph Streams | Suman Kalyan Bera">
+  <meta property="og:description" content="We revisit the much-studied problem of space-efficiently estimating the number of triangles in a graph stream, and extensions of this problem to counting fixed-sized cliques and cycles, obtaining a number of new upper and lower bounds. For the important special case of counting triangles, we give a $4$-pass, $(1\pm\varepsilon)$-approximate, randomized algorithm that needs at most $\widetilde{O}(\varepsilon^{-2}\, m^{{3}/{2}}/T)$ space, where $m$ is the number of edges and $T$ is a promised lower bound on the number of triangles. This matches the space bound of a very recent algorithm (McGregor et al., PODS 2016), with an arguably simpler and more general technique. We give an improved multi-pass lower bound of $\Omega(\min  (m^{{3}/{2}}/T, m/\sqrt{T})  )$, applicable at essentially all densities $\Omega(n) \le m \le O(n^2)$. We also prove other multi-pass lower bounds in terms of various structural parameters of the input graph. Together, our results resolve a couple of open questions raised in recent work (Braverman et al., ICALP 2013).
+
+
+Our presentation emphasizes more general frameworks, for both upper and lower bounds. We give a sampling algorithm for counting arbitrary subgraphs and then improve it via combinatorial means in the special cases of counting odd cliques and odd cycles.  Our results show that these problems are considerably easier in the cash-register streaming model than in the turnstile model, where previous work had focused (Manjunath et al., ESA 2011; Kane et al., ICALP 2012).  We use Tur&#39;an graphs and related gadgets to derive lower bounds for counting cliques and cycles, with triangle-counting lower bounds following as a corollary. "><meta property="og:image" content="https://skalyanb.github.io/images/icon_huc03e45d0f90c30d0bff279f9b196c6f8_346669_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://skalyanb.github.io/images/icon_huc03e45d0f90c30d0bff279f9b196c6f8_346669_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2020-01-09T01:14:13&#43;00:00">
     
-    <meta property="article:modified_time" content="2017-01-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2020-07-29T20:16:21-07:00">
   
 
   
@@ -302,14 +308,14 @@
     "@type": "WebPage",
     "@id": "https://skalyanb.github.io/publication/bera-2017-towards/"
   },
-  "headline": "Towards tighter space bounds for counting triangles and other substructures in graph streams",
+  "headline": "Towards Tighter Space Bounds for Counting Triangles and Other Substructures in Graph Streams",
   
   "datePublished": "2020-01-09T01:14:13Z",
-  "dateModified": "2017-01-01T00:00:00Z",
+  "dateModified": "2020-07-29T20:16:21-07:00",
   
   "author": {
     "@type": "Person",
-    "name": "Suman K Bera"
+    "name": "Suman K. Bera"
   },
   
   "publisher": {
@@ -320,7 +326,7 @@
       "url": "img/https://skalyanb.github.io/"
     }
   },
-  "description": ""
+  "description": "We revisit the much-studied problem of space-efficiently estimating the number of triangles in a graph stream, and extensions of this problem to counting fixed-sized cliques and cycles, obtaining a number of new upper and lower bounds. For the important special case of counting triangles, we give a $4$-pass, $(1\\pm\\varepsilon)$-approximate, randomized algorithm that needs at most $\\widetilde{O}(\\varepsilon^{-2}\\, m^{{3}/{2}}/T)$ space, where $m$ is the number of edges and $T$ is a promised lower bound on the number of triangles. This matches the space bound of a very recent algorithm (McGregor et al., PODS 2016), with an arguably simpler and more general technique. We give an improved multi-pass lower bound of $\\Omega(\\min  (m^{{3}/{2}}/T, m/\\sqrt{T})  )$, applicable at essentially all densities $\\Omega(n) \\le m \\le O(n^2)$. We also prove other multi-pass lower bounds in terms of various structural parameters of the input graph. Together, our results resolve a couple of open questions raised in recent work (Braverman et al., ICALP 2013).\n\n\nOur presentation emphasizes more general frameworks, for both upper and lower bounds. We give a sampling algorithm for counting arbitrary subgraphs and then improve it via combinatorial means in the special cases of counting odd cliques and odd cycles.  Our results show that these problems are considerably easier in the cash-register streaming model than in the turnstile model, where previous work had focused (Manjunath et al., ESA 2011; Kane et al., ICALP 2012).  We use Tur'an graphs and related gadgets to derive lower bounds for counting cliques and cycles, with triangle-counting lower bounds following as a corollary. "
 }
 </script>
 
@@ -338,7 +344,7 @@
 
 
 
-  <title>Towards tighter space bounds for counting triangles and other substructures in graph streams | Suman Kalyan Bera</title>
+  <title>Towards Tighter Space Bounds for Counting Triangles and Other Substructures in Graph Streams | Suman Kalyan Bera</title>
 
 </head>
 
@@ -520,7 +526,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Towards tighter space bounds for counting triangles and other substructures in graph streams</h1>
+  <h1>Towards Tighter Space Bounds for Counting Triangles and Other Substructures in Graph Streams</h1>
 
   
 
@@ -540,7 +546,7 @@
 
 
   
-  <span>Suman K Bera</span>, <span>Amit Chakrabarti</span>
+  <span>Suman K. Bera</span>, <span><a href="https://www.cs.dartmouth.edu/~ac/">Amit Chakrabarti</a></span>
 
   </div>
   
@@ -635,6 +641,12 @@
   <div class="article-container">
 
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract"><p>We revisit the much-studied problem of space-efficiently estimating the number of triangles in a graph stream, and extensions of this problem to counting fixed-sized cliques and cycles, obtaining a number of new upper and lower bounds. For the important special case of counting triangles, we give a $4$-pass, $(1\pm\varepsilon)$-approximate, randomized algorithm that needs at most $\widetilde{O}(\varepsilon^{-2}\, m^{{3}/{2}}/T)$ space, where $m$ is the number of edges and $T$ is a promised lower bound on the number of triangles. This matches the space bound of a very recent algorithm (McGregor et al., PODS 2016), with an arguably simpler and more general technique. We give an improved multi-pass lower bound of $\Omega(\min  (m^{{3}/{2}}/T, m/\sqrt{T})  )$, applicable at essentially all densities $\Omega(n) \le m \le O(n^2)$. We also prove other multi-pass lower bounds in terms of various structural parameters of the input graph. Together, our results resolve a couple of open questions raised in recent work (Braverman et al., ICALP 2013).</p>
+
+<p>Our presentation emphasizes more general frameworks, for both upper and lower bounds. We give a sampling algorithm for counting arbitrary subgraphs and then improve it via combinatorial means in the special cases of counting odd cliques and odd cycles.  Our results show that these problems are considerably easier in the cash-register streaming model than in the turnstile model, where previous work had focused (Manjunath et al., ESA 2011; Kane et al., ICALP 2012).  We use Tur&rsquo;an graphs and related gadgets to derive lower bounds for counting cliques and cycles, with triangle-counting lower bounds following as a corollary.</p>
+</p>
+    
 
     
     <div class="row">
@@ -679,6 +691,20 @@
 
 
 
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/streaming-model/">Streaming Model</a>
+  
+  <a class="badge badge-light" href="/tags/triangle-counting/">Triangle Counting</a>
+  
+  <a class="badge badge-light" href="/tags/subgraph-counting/">Subgraph Counting</a>
+  
+  <a class="badge badge-light" href="/tags/lower-bounds/">Lower Bounds</a>
+  
+  <a class="badge badge-light" href="/tags/graph-algorithms/">Graph Algorithms</a>
+  
+</div>
+
 
 
 <div class="share-box" aria-hidden="true">
@@ -692,7 +718,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://skalyanb.github.io/publication/bera-2017-towards/&amp;text=Towards%20tighter%20space%20bounds%20for%20counting%20triangles%20and%20other%20substructures%20in%20graph%20streams" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://skalyanb.github.io/publication/bera-2017-towards/&amp;text=Towards%20Tighter%20Space%20Bounds%20for%20Counting%20Triangles%20and%20Other%20Substructures%20in%20Graph%20Streams" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -705,7 +731,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://skalyanb.github.io/publication/bera-2017-towards/&amp;t=Towards%20tighter%20space%20bounds%20for%20counting%20triangles%20and%20other%20substructures%20in%20graph%20streams" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://skalyanb.github.io/publication/bera-2017-towards/&amp;t=Towards%20Tighter%20Space%20Bounds%20for%20Counting%20Triangles%20and%20Other%20Substructures%20in%20Graph%20Streams" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -718,7 +744,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Towards%20tighter%20space%20bounds%20for%20counting%20triangles%20and%20other%20substructures%20in%20graph%20streams&amp;body=https://skalyanb.github.io/publication/bera-2017-towards/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Towards%20Tighter%20Space%20Bounds%20for%20Counting%20Triangles%20and%20Other%20Substructures%20in%20Graph%20Streams&amp;body=https://skalyanb.github.io/publication/bera-2017-towards/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -731,7 +757,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://skalyanb.github.io/publication/bera-2017-towards/&amp;title=Towards%20tighter%20space%20bounds%20for%20counting%20triangles%20and%20other%20substructures%20in%20graph%20streams" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://skalyanb.github.io/publication/bera-2017-towards/&amp;title=Towards%20Tighter%20Space%20Bounds%20for%20Counting%20Triangles%20and%20Other%20Substructures%20in%20Graph%20Streams" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -744,7 +770,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Towards%20tighter%20space%20bounds%20for%20counting%20triangles%20and%20other%20substructures%20in%20graph%20streams%20https://skalyanb.github.io/publication/bera-2017-towards/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Towards%20Tighter%20Space%20Bounds%20for%20Counting%20Triangles%20and%20Other%20Substructures%20in%20Graph%20Streams%20https://skalyanb.github.io/publication/bera-2017-towards/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -757,7 +783,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://skalyanb.github.io/publication/bera-2017-towards/&amp;title=Towards%20tighter%20space%20bounds%20for%20counting%20triangles%20and%20other%20substructures%20in%20graph%20streams" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://skalyanb.github.io/publication/bera-2017-towards/&amp;title=Towards%20Tighter%20Space%20Bounds%20for%20Counting%20Triangles%20and%20Other%20Substructures%20in%20Graph%20Streams" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -786,24 +812,6 @@
 
 
 
-
-  
-  
-  
-  
-  <div class="media author-card content-widget-hr">
-    
-
-    <div class="media-body">
-      <h5 class="card-title"><a href="/authors/suman-k-bera/"></a></h5>
-      
-      
-      <ul class="network-icon" aria-hidden="true">
-  
-</ul>
-
-    </div>
-  </div>
 
 
 
