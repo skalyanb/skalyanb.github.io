@@ -5,18 +5,50 @@
     <link>https://skalyanb.github.io/authors/</link>
       <atom:link href="https://skalyanb.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jul 2020 22:36:32 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://skalyanb.github.io/images/icon_huc03e45d0f90c30d0bff279f9b196c6f8_346669_512x512_fill_lanczos_center_2.png</url>
+      <url>https://skalyanb.github.io/images/icon_hud3b2ade32487d77e9d8f8614ee0ad301_379041_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>https://skalyanb.github.io/authors/</link>
     </image>
     
     <item>
+      <title>[Asaf Shapira](http://www.math.tau.ac.il/~asafico/)</title>
+      <link>https://skalyanb.github.io/authors/asaf-shapirahttp/www.math.tau.ac.il/~asafico/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/authors/asaf-shapirahttp/www.math.tau.ac.il/~asafico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[C. Seshadhri](https://users.soe.ucsc.edu/~sesh/)</title>
       <link>https://skalyanb.github.io/authors/c.-seshadhrihttps/users.soe.ucsc.edu/~sesh/</link>
-      <pubDate>Mon, 27 Jul 2020 22:36:32 -0700</pubDate>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/authors/c.-seshadhrihttps/users.soe.ucsc.edu/~sesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Lior Gishboliner](https://people.math.ethz.ch/~lgishboli/)</title>
+      <link>https://skalyanb.github.io/authors/lior-gishbolinerhttps/people.math.ethz.ch/~lgishboli/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/authors/lior-gishbolinerhttps/people.math.ethz.ch/~lgishboli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suman K. Bera</title>
+      <link>https://skalyanb.github.io/authors/suman-k.-bera/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/authors/suman-k.-bera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yevgeny Levanzov</title>
+      <link>https://skalyanb.github.io/authors/yevgeny-levanzov/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/authors/yevgeny-levanzov/</guid>
       <description></description>
     </item>
     
@@ -25,14 +57,6 @@
       <link>https://skalyanb.github.io/authors/noujan-pashanasangihttps/users.soe.ucsc.edu/~npasha/</link>
       <pubDate>Mon, 27 Jul 2020 22:36:32 -0700</pubDate>
       <guid>https://skalyanb.github.io/authors/noujan-pashanasangihttps/users.soe.ucsc.edu/~npasha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Suman K. Bera</title>
-      <link>https://skalyanb.github.io/authors/suman-k.-bera/</link>
-      <pubDate>Mon, 27 Jul 2020 22:36:32 -0700</pubDate>
-      <guid>https://skalyanb.github.io/authors/suman-k.-bera/</guid>
       <description></description>
     </item>
     
@@ -177,9 +201,28 @@
       <link>https://skalyanb.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a postdoctoral researcher at UC Santa Cruz, working with &lt;a href=&#34;https://users.soe.ucsc.edu/~sesh/&#34;&gt;Prof. C. Seshadhri&lt;/a&gt;. I obtained my PhD in Computer Science from Dartmouth College, where I was advised by &lt;a href=&#34;https://www.cs.dartmouth.edu/~ac/&#34;&gt;Prof. Amit Chakrabarti&lt;/a&gt;. I completed my masters at the Indian Institute of Technology Delhi (IIT Delhi) under the supervision of &lt;a href=&#34;http://www.cse.iitd.ernet.in/~amitk/&#34;&gt;Prof. Amit Kumar&lt;/a&gt;. Before that, I was an undergraduate student at Jadavpur University. Somewhere in between, I have spent a couple of years at IBM Research Lab (New Delhi) and Adobe India.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;My research is broadly on the topic of foundations of data science. In particular, I am interested in large graph analysis. My work lies in the intersection of theoretical computer science and data mining. I am also interested in algorithmic fairness. In the past, I have enjoyed working on approximation algorithms and arithmetic circuit complexity.&lt;/p&gt;
+&lt;p&gt;I am part of the Graph AI team at &lt;a href=&#34;https://katanagraph.com/&#34;&gt;Katana Graph&lt;/a&gt;, a start-up founded by &lt;a href=&#34;https://www.cs.utexas.edu/~pingali/&#34;&gt;Prof. Keshav Pingali&lt;/a&gt; and &lt;a href=&#34;https://www.cs.utexas.edu/~rossbach/&#34;&gt;Prof. Chris Rossbach&lt;/a&gt; in 2020.
+Katana Graph provides a distributed graph intelligence platform with highly scalable and lightning fast graph query, analytics, mining, and AI solutions. &lt;em&gt;If you are passionate about graph algorithms/graph AI and looking for opportunities, feel free to reach out.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Before joining Katana Graph, I have spent a couple of years as a postdoctoral researcher at UC Santa Cruz where I worked with &lt;a href=&#34;https://users.soe.ucsc.edu/~sesh/&#34;&gt;Prof. C. Seshadhri&lt;/a&gt;. I obtained my Ph.D. in Computer Science from Dartmouth College, advised by &lt;a href=&#34;https://www.cs.dartmouth.edu/~ac/&#34;&gt;Prof. Amit Chakrabarti&lt;/a&gt;.
+&lt;!-- I completed my masters at the Indian Institute of Technology Delhi (IIT Delhi) under the supervision of [Prof. Amit Kumar](http://www.cse.iitd.ernet.in/~amitk/). Before that, I was an undergraduate student at Jadavpur University. --&gt;
+In the past, I have worked at &lt;a href=&#34;https://research.ibm.com/labs/&#34;&gt;IBM Research Lab&lt;/a&gt; and &lt;a href=&#34;https://www.adobe.com/in/&#34;&gt;Adobe India&lt;/a&gt;.
+&lt;!--  
+Somewhere in between, I have spent a couple of years at IBM Research Lab (New Delhi) and Adobe India. --&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
+
+&lt;p&gt;I am broadly interested in the topic of large-scale graph analysis. My current research involves developing scalable graph AI models for real-world applications. I also work on designing efficient and practical graph algorithms with &lt;em&gt;theoretical guarantees&lt;/em&gt; in various Big Data models such as the streaming/distributed models.
+Over the past few years, I have enjoyed working on a diverse range of topics including algorithmic fairness, scalable clustering, communication complexity, arithmetic circuit complexity, and approximation algorithms. My research has been published at premier theoretical computer science conferences such as SODA, ITCS, ICALP, etc. as well as at top-tier ML/data mining conferences such as NeurIPS, KDD, VLDB, etc.
+ &lt;!-- The Web Conference (previously known as WWW), etc.  --&gt;
+ For more details, see my &lt;a href=&#34;https://skalyanb.github.io/pubs&#34;&gt;publications&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!-- 
+In particular, I am interested in large graph analysis. My work lies in the intersection of theoretical computer science and data mining. I am also interested in algorithmic fairness. In the past, I have enjoyed working on approximation algorithms and arithmetic circuit complexity. --&gt;
 </description>
     </item>
     

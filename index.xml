@@ -5,12 +5,79 @@
     <link>https://skalyanb.github.io/</link>
       <atom:link href="https://skalyanb.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Suman Kalyan Bera</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jul 2020 22:36:32 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://skalyanb.github.io/images/icon_huc03e45d0f90c30d0bff279f9b196c6f8_346669_512x512_fill_lanczos_center_2.png</url>
+      <url>https://skalyanb.github.io/images/icon_hud3b2ade32487d77e9d8f8614ee0ad301_379041_512x512_fill_lanczos_center_2.png</url>
       <title>Suman Kalyan Bera</title>
       <link>https://skalyanb.github.io/</link>
     </image>
+    
+    <item>
+      <title>Services</title>
+      <link>https://skalyanb.github.io/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/services/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Quickly discover relevant content by &lt;a href=&#34;https://skalyanb.github.io/publication/&#34;&gt;filtering publications&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+
+&lt;p&gt;&lt;strong&gt;Program Committee:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www2022.thewebconf.org/&#34;&gt;The Web Conference 2022 (formerly known as WWW)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://databasetheory.org/node/120&#34;&gt;The International Conference on Database Theory (ICDT) 2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www2021.thewebconf.org/&#34;&gt;The Web Conference 2021 (formerly known as WWW)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.siam.org/conferences/cm/conference/sdm21&#34;&gt;SDM 2021&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Reviewer:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://aistats.org/aistats2022/index.html&#34;&gt;AISTATS&lt;/a&gt; (2022), &lt;a href=&#34;https://dl.acm.org/conference/soda&#34;&gt;SODA&lt;/a&gt; (2019, 2020, 2021),
+&lt;a href=&#34;https://www.fsttcs.org.in/2020/&#34;&gt;FSTTCS&lt;/a&gt; (2020),
+&lt;a href=&#34;http://eatcs.org/index.php/conferences&#34;&gt;ICALP&lt;/a&gt; (2018), &lt;a href=&#34;https://computationalcomplexity.org/&#34;&gt;CCC&lt;/a&gt; (2017),  &lt;a href=&#34;https://www.cambridge.org/core/journals/network-science&#34;&gt;Network Science&lt;/a&gt; etc.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://skalyanb.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/teaching/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Quickly discover relevant content by &lt;a href=&#34;https://skalyanb.github.io/publication/&#34;&gt;filtering publications&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+
+&lt;p&gt;I have served as a Teaching Assistant for the following courses.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Machine Learning and Statistical Data Analysis (&lt;a href=&#34;https://www.cs.dartmouth.edu/~lorenzo/teaching/cs174/Archive/Spring2016/&#34;&gt;CS74/CS174&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Algorithms (&lt;a href=&#34;https://www.cs.dartmouth.edu/~ac/Teach/CS31-Spring17/&#34;&gt;CS31&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Discrete Mathematics in Computer Science (&lt;a href=&#34;https://www.cs.dartmouth.edu/~ac/Teach/CS30-Fall15/&#34;&gt;CS30&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Theory of Computation (&lt;a href=&#34;https://www.cs.dartmouth.edu/~ac/Teach/CS39-Spring18/&#34;&gt;CS39&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Computer Architecture&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Counting Subgraphs in Degenerate Graphs</title>
+      <link>https://skalyanb.github.io/publication/bera-2022-jacm/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2022-jacm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Near-Linear Time Homomorphism Counting in Bounded Degeneracy Graphs: The Barrier of Long Induced Cycles</title>
@@ -73,6 +140,41 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/publication/bera-2019-fair/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://skalyanb.github.io/news/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0800</pubDate>
+      <guid>https://skalyanb.github.io/news/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;[Nov 2021]&lt;/strong&gt; Our paper titled &lt;em&gt;Counting Subgraphs in Degenerate Graphs&lt;/em&gt; has been accepted for publications at the &lt;a href=&#34;https://dl.acm.org/journal/jacm&#34;&gt;Journal of the ACM&lt;/a&gt;! Arxiv preprint will be posted soon.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;[Oct 2021]&lt;/strong&gt; Serving on the program committee of &lt;a href=&#34;https://www2022.thewebconf.org/&#34;&gt;The Web Conference 2022&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;[June 2021]&lt;/strong&gt; Excited to join the Graph AI team at &lt;a href=&#34;https://katanagraph.com/&#34;&gt;Katana Graph&lt;/a&gt;, a start-up that is providing a distributed scalable graph intelligence platform!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;[Feb 2021]&lt;/strong&gt; Serving on the program committee of &lt;a href=&#34;https://databasetheory.org/node/120&#34;&gt;The International Conference on Database Theory (ICDT)&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;[Jan 2021]&lt;/strong&gt; Attend the talk on our paper titled &lt;em&gt;Near-Linear Time Homomorphism Counting in Bounded Degeneracy Graphs: The Barrier of Long Induced Cycles&lt;/em&gt; at SODA 2021. &lt;a href=&#34;https://meetings.siam.org/sess/dsp_talk.cfm?p=110435&#34;&gt;Details here&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;[Oct 2020]&lt;/strong&gt; Our paper titled &lt;em&gt;Near-Linear Time Homomorphism Counting in Bounded Degeneracy Graphs: The Barrier of Long Induced Cycles&lt;/em&gt; has been accepted for publications at SODA 2021! &lt;a href=&#34;https://arxiv.org/pdf/2010.08083.pdf&#34;&gt;Arxiv Preprint&lt;/a&gt; is now available!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;[Oct 2020]&lt;/strong&gt; Serving on the program committee of &lt;a href=&#34;https://www2021.thewebconf.org/&#34;&gt;The Web Conference 2021&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;[June 2020]&lt;/strong&gt; &lt;em&gt;New paper at KDD!&lt;/em&gt; Our paper titled &lt;em&gt;How to Count Triangles, without Seeing the Whole Graph&lt;/em&gt; has ben accepted for publications at KDD 2020! &lt;a href=&#34;https://arxiv.org/pdf/2006.11947.pdf&#34;&gt;Arxiv Preprint&lt;/a&gt; is now available!&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
     </item>
     
     <item>

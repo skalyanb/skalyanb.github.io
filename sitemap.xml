@@ -3,12 +3,107 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://skalyanb.github.io/publication_types/1/</loc>
-    <lastmod>2021-01-14T21:38:03-08:00</lastmod>
+    <loc>https://skalyanb.github.io/services/</loc>
+    <lastmod>2021-12-28T11:29:15-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/teaching/</loc>
+    <lastmod>2021-12-28T11:29:15-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/publication_types/2/</loc>
+    <lastmod>2021-12-27T22:02:50-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/authors/asaf-shapirahttp/www.math.tau.ac.il/~asafico/</loc>
+    <lastmod>2021-12-27T22:02:50-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://skalyanb.github.io/authors/c.-seshadhrihttps/users.soe.ucsc.edu/~sesh/</loc>
+    <lastmod>2021-12-27T22:02:50-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/authors/lior-gishbolinerhttps/people.math.ethz.ch/~lgishboli/</loc>
+    <lastmod>2021-12-27T22:02:50-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/authors/</loc>
+    <lastmod>2021-12-27T22:02:50-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/categories/</loc>
+    <lastmod>2021-12-27T22:02:50-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/tags/conditional-lower-bounds/</loc>
+    <lastmod>2021-12-27T22:02:50-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/publication/bera-2022-jacm/</loc>
+    <lastmod>2021-12-27T22:02:50-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/tags/graph-algorithms/</loc>
+    <lastmod>2021-12-27T22:02:50-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/tags/graph-mining/</loc>
+    <lastmod>2021-12-27T22:02:50-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/tags/homomorphism-counting/</loc>
+    <lastmod>2021-12-27T22:02:50-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/publication_types/</loc>
+    <lastmod>2021-12-27T22:02:50-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/categories/published/</loc>
+    <lastmod>2021-12-27T22:02:50-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/tags/subgraph-counting/</loc>
+    <lastmod>2021-12-27T22:02:50-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/authors/suman-k.-bera/</loc>
+    <lastmod>2021-12-27T22:02:50-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/</loc>
+    <lastmod>2021-12-28T11:29:15-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/tags/</loc>
+    <lastmod>2021-12-27T22:02:50-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/authors/yevgeny-levanzov/</loc>
+    <lastmod>2021-12-27T22:02:50-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skalyanb.github.io/publication_types/1/</loc>
     <lastmod>2021-01-14T21:38:03-08:00</lastmod>
   </url>
   
@@ -18,67 +113,7 @@
   </url>
   
   <url>
-    <loc>https://skalyanb.github.io/authors/</loc>
-    <lastmod>2021-01-14T21:38:03-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/categories/</loc>
-    <lastmod>2021-01-14T21:38:03-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/tags/conditional-lower-bounds/</loc>
-    <lastmod>2021-01-14T21:38:03-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/tags/graph-algorithms/</loc>
-    <lastmod>2021-01-14T21:38:03-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/tags/graph-mining/</loc>
-    <lastmod>2021-01-14T21:38:03-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/tags/homomorphism-counting/</loc>
-    <lastmod>2021-01-14T21:38:03-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://skalyanb.github.io/publication/bera-2020-homomorphism/</loc>
-    <lastmod>2021-01-14T21:38:03-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/publication_types/</loc>
-    <lastmod>2021-01-14T21:38:03-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/categories/published/</loc>
-    <lastmod>2021-01-14T21:38:03-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/tags/subgraph-counting/</loc>
-    <lastmod>2021-01-14T21:38:03-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/authors/suman-k.-bera/</loc>
-    <lastmod>2021-01-14T21:38:03-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/</loc>
-    <lastmod>2021-01-14T21:38:03-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/tags/</loc>
     <lastmod>2021-01-14T21:38:03-08:00</lastmod>
   </url>
   
@@ -203,6 +238,11 @@
   </url>
   
   <url>
+    <loc>https://skalyanb.github.io/news/</loc>
+    <lastmod>2021-12-27T22:02:50-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://skalyanb.github.io/publication/bera-2017-towards/</loc>
     <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
@@ -219,11 +259,6 @@
   
   <url>
     <loc>https://skalyanb.github.io/tags/complexity-theory/</loc>
-    <lastmod>2020-07-29T20:16:21-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://skalyanb.github.io/publication_types/2/</loc>
     <lastmod>2020-07-29T20:16:21-07:00</lastmod>
   </url>
   
@@ -309,7 +344,7 @@
   
   <url>
     <loc>https://skalyanb.github.io/authors/admin/</loc>
-    <lastmod>2020-07-27T20:29:47-07:00</lastmod>
+    <lastmod>2021-12-27T22:02:50-08:00</lastmod>
   </url>
   
   <url>

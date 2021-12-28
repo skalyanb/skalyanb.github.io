@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>[Lior Gishboliner](https://people.math.ethz.ch/~lgishboli/) | Suman Kalyan Bera</title>
+    <link>https://skalyanb.github.io/authors/lior-gishbolinerhttps/people.math.ethz.ch/~lgishboli/</link>
+      <atom:link href="https://skalyanb.github.io/authors/lior-gishbolinerhttps/people.math.ethz.ch/~lgishboli/index.xml" rel="self" type="application/rss+xml" />
+    <description>[Lior Gishboliner](https://people.math.ethz.ch/~lgishboli/)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://skalyanb.github.io/images/icon_hud3b2ade32487d77e9d8f8614ee0ad301_379041_512x512_fill_lanczos_center_2.png</url>
+      <title>[Lior Gishboliner](https://people.math.ethz.ch/~lgishboli/)</title>
+      <link>https://skalyanb.github.io/authors/lior-gishbolinerhttps/people.math.ethz.ch/~lgishboli/</link>
+    </image>
+    
+    <item>
+      <title>Counting Subgraphs in Degenerate Graphs</title>
+      <link>https://skalyanb.github.io/publication/bera-2022-jacm/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2022-jacm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

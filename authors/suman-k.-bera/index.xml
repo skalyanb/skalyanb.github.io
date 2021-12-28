@@ -5,12 +5,20 @@
     <link>https://skalyanb.github.io/authors/suman-k.-bera/</link>
       <atom:link href="https://skalyanb.github.io/authors/suman-k.-bera/index.xml" rel="self" type="application/rss+xml" />
     <description>Suman K. Bera</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jul 2020 22:36:32 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://skalyanb.github.io/images/icon_huc03e45d0f90c30d0bff279f9b196c6f8_346669_512x512_fill_lanczos_center_2.png</url>
+      <url>https://skalyanb.github.io/images/icon_hud3b2ade32487d77e9d8f8614ee0ad301_379041_512x512_fill_lanczos_center_2.png</url>
       <title>Suman K. Bera</title>
       <link>https://skalyanb.github.io/authors/suman-k.-bera/</link>
     </image>
+    
+    <item>
+      <title>Counting Subgraphs in Degenerate Graphs</title>
+      <link>https://skalyanb.github.io/publication/bera-2022-jacm/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2022-jacm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Near-Linear Time Homomorphism Counting in Bounded Degeneracy Graphs: The Barrier of Long Induced Cycles</title>
