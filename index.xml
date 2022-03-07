@@ -145,7 +145,7 @@
     <item>
       <title>News</title>
       <link>https://skalyanb.github.io/news/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 -0800</pubDate>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
       <guid>https://skalyanb.github.io/news/</guid>
       <description>
 
@@ -157,6 +157,12 @@
 
 
 &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;[Mar 2022]&lt;/strong&gt; At &lt;a href=&#34;https://katanagraph.com/&#34;&gt;Katana Graph&lt;/a&gt;, we have developed a simple graph neural network (gnn) based AI model SimGCN that is dominating the leaderboards at &lt;a href=&#34;https://tdcommons.ai/&#34;&gt;TDC&lt;/a&gt; &lt;a href=&#34;https://tdcommons.ai/benchmark/admet_group/overview/&#34;&gt;ADMET Benchmark Group&lt;/a&gt;! Check out our &lt;a href=&#34;https://github.com/KatanaGraph/SimGCN-TDC/blob/main/Report_SimGCN_for_TDC_Benchmarks.pdf&#34;&gt;report&lt;/a&gt; and &lt;a href=&#34;https://github.com/KatanaGraph/SimGCN-TDC&#34;&gt;Github repo&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;[Feb 2022]&lt;/strong&gt; Excited to serve on the program committee of &lt;a href=&#34;https://facctconference.org/2022/index.html&#34;&gt;ACM FAccT Conference 2022&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;[Jan 2022]&lt;/strong&gt; Two papers accepted at &lt;a href=&#34;https://www2022.thewebconf.org/&#34;&gt;the Web Conference&lt;/a&gt;! Details to be updated soon.&lt;/p&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;[Nov 2021]&lt;/strong&gt; Our paper titled &lt;em&gt;Counting Subgraphs in Degenerate Graphs&lt;/em&gt; has been accepted for publications at the &lt;a href=&#34;https://dl.acm.org/journal/jacm&#34;&gt;Journal of the ACM&lt;/a&gt;! Arxiv preprint will be posted soon.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;[Oct 2021]&lt;/strong&gt; Serving on the program committee of &lt;a href=&#34;https://www2022.thewebconf.org/&#34;&gt;The Web Conference 2022&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
