@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graph Crawling | Suman Kalyan Bera</title>
+    <link>https://skalyanb.github.io/tag/graph-crawling/</link>
+      <atom:link href="https://skalyanb.github.io/tag/graph-crawling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graph Crawling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://skalyanb.github.io/media/icon_hud3b2ade32487d77e9d8f8614ee0ad301_379041_512x512_fill_lanczos_center_3.png</url>
+      <title>Graph Crawling</title>
+      <link>https://skalyanb.github.io/tag/graph-crawling/</link>
+    </image>
+    
+    <item>
+      <title>How to Count Triangles, without Seeing the Whole Graph</title>
+      <link>https://skalyanb.github.io/publication/bera-2020-random_walk/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2020-random_walk/</guid>
+      <description>&lt;p&gt;Here is a 2 min promotional video of our work. For the video of the full talk, &lt;a href=&#34;https://www.youtube.com/watch?v=a0h8qbhAnzQ&amp;amp;amp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/443858661&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

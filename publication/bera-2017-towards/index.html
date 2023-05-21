@@ -1,88 +1,107 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<!-- This site was created with Wowchemy. https://www.wowchemy.com -->
+<!-- Last Published: May 21, 2023 --><html lang="en-us" >
+
 
 <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.7.0 for Hugo" />
+  
 
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.7.0">
+  
+  
 
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   
 
   
   
   
-  
-  
     
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
     
-    
-  
-  
-
-  <meta name="author" content="Suman Kalyan Bera">
-
-  
-  
-  
-    
-  
-  <meta name="description" content="We revisit the much-studied problem of space-efficiently estimating the number of triangles in a graph stream, and extensions of this problem to counting fixed-sized cliques and cycles, obtaining a number of new upper and lower bounds. For the important special case of counting triangles, we give a $4$-pass, $(1\pm\varepsilon)$-approximate, randomized algorithm that needs at most $\widetilde{O}(\varepsilon^{-2}\, m^{{3}/{2}}/T)$ space, where $m$ is the number of edges and $T$ is a promised lower bound on the number of triangles. This matches the space bound of a very recent algorithm (McGregor et al., PODS 2016), with an arguably simpler and more general technique. We give an improved multi-pass lower bound of $\Omega(\min  (m^{{3}/{2}}/T, m/\sqrt{T})  )$, applicable at essentially all densities $\Omega(n) \le m \le O(n^2)$. We also prove other multi-pass lower bounds in terms of various structural parameters of the input graph. Together, our results resolve a couple of open questions raised in recent work (Braverman et al., ICALP 2013).
-
-
-Our presentation emphasizes more general frameworks, for both upper and lower bounds. We give a sampling algorithm for counting arbitrary subgraphs and then improve it via combinatorial means in the special cases of counting odd cliques and odd cycles.  Our results show that these problems are considerably easier in the cash-register streaming model than in the turnstile model, where previous work had focused (Manjunath et al., ESA 2011; Kane et al., ICALP 2012).  We use Tur&#39;an graphs and related gadgets to derive lower bounds for counting cliques and cycles, with triangle-counting lower bounds following as a corollary. ">
-
-  
-  <link rel="alternate" hreflang="en-us" href="https://skalyanb.github.io/publication/bera-2017-towards/">
-
-  
-
-
-  
-  
-  
-  <meta name="theme-color" content="#2962ff">
   
 
   
   
-  
-  <script src="/js/mathjax-config.js"></script>
-  
 
   
   
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.047268c6dd09ad74ba54a0ba71837064.css" media="print" onload="this.media='all'">
+
   
   
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
-
+  
     
     
-    
-      
-    
-    
-      
-      
-        
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
-        
-      
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.2/css/academicons.min.css" integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg==" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
     
 
     
 
     
     
+      
       
 
       
@@ -91,12 +110,6 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
       
     
       
-
-      
-      
-
-      
-    
       
 
       
@@ -105,12 +118,6 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
       
     
       
-
-      
-      
-
-      
-    
       
 
       
@@ -119,12 +126,6 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
       
     
       
-
-      
-      
-
-      
-    
       
 
       
@@ -133,12 +134,6 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
       
     
       
-
-      
-      
-
-      
-    
       
 
       
@@ -147,21 +142,6 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
       
     
       
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
-      
-    
       
 
       
@@ -170,12 +150,38 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
       
     
       
+      
 
       
       
 
       
     
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
       
 
       
@@ -186,79 +192,37 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
       
     
       
+      
 
+      
+      
+
+      
+    
       
       
 
       
+      
+
+      
     
-
-  
-
-  
-  
-  
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
   
 
   
   
   
   
-  <link rel="stylesheet" href="/css/academic.css">
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.d1074f8af93a3c818e7ddf864bccad0a.css" />
 
   
-
-
-
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156058206-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           document.location = url;
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target);  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-156058206-1', {});
-
   
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
-
   
-
-  <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hud3b2ade32487d77e9d8f8614ee0ad301_379041_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hud3b2ade32487d77e9d8f8614ee0ad301_379041_192x192_fill_lanczos_center_2.png">
-
-  <link rel="canonical" href="https://skalyanb.github.io/publication/bera-2017-towards/">
-
+  
   
   
   
@@ -266,31 +230,117 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
   
     
     
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
   
   
-  <meta property="twitter:card" content="summary">
-  
-  <meta property="og:site_name" content="Suman Kalyan Bera">
-  <meta property="og:url" content="https://skalyanb.github.io/publication/bera-2017-towards/">
-  <meta property="og:title" content="Towards Tighter Space Bounds for Counting Triangles and Other Substructures in Graph Streams | Suman Kalyan Bera">
-  <meta property="og:description" content="We revisit the much-studied problem of space-efficiently estimating the number of triangles in a graph stream, and extensions of this problem to counting fixed-sized cliques and cycles, obtaining a number of new upper and lower bounds. For the important special case of counting triangles, we give a $4$-pass, $(1\pm\varepsilon)$-approximate, randomized algorithm that needs at most $\widetilde{O}(\varepsilon^{-2}\, m^{{3}/{2}}/T)$ space, where $m$ is the number of edges and $T$ is a promised lower bound on the number of triangles. This matches the space bound of a very recent algorithm (McGregor et al., PODS 2016), with an arguably simpler and more general technique. We give an improved multi-pass lower bound of $\Omega(\min  (m^{{3}/{2}}/T, m/\sqrt{T})  )$, applicable at essentially all densities $\Omega(n) \le m \le O(n^2)$. We also prove other multi-pass lower bounds in terms of various structural parameters of the input graph. Together, our results resolve a couple of open questions raised in recent work (Braverman et al., ICALP 2013).
 
 
-Our presentation emphasizes more general frameworks, for both upper and lower bounds. We give a sampling algorithm for counting arbitrary subgraphs and then improve it via combinatorial means in the special cases of counting odd cliques and odd cycles.  Our results show that these problems are considerably easier in the cash-register streaming model than in the turnstile model, where previous work had focused (Manjunath et al., ESA 2011; Kane et al., ICALP 2012).  We use Tur&#39;an graphs and related gadgets to derive lower bounds for counting cliques and cycles, with triangle-counting lower bounds following as a corollary. "><meta property="og:image" content="https://skalyanb.github.io/images/icon_hud3b2ade32487d77e9d8f8614ee0ad301_379041_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://skalyanb.github.io/images/icon_hud3b2ade32487d77e9d8f8614ee0ad301_379041_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+<meta name="description" content="We revisit the much-studied problem of space-efficiently estimating the number of triangles in a graph stream, and extensions of this problem to counting fixed-sized cliques and cycles, obtaining a number of new upper and lower bounds. For the important special case of counting triangles, we give a $4$-pass, $(1\pm\varepsilon)$-approximate, randomized algorithm that needs at most $\widetilde{O}(\varepsilon^{-2}\, m^{{3}/{2}}/T)$ space, where $m$ is the number of edges and $T$ is a promised lower bound on the number of triangles. This matches the space bound of a very recent algorithm (McGregor et al., PODS 2016), with an arguably simpler and more general technique. We give an improved multi-pass lower bound of $\Omega(\min  (m^{{3}/{2}}/T, m/\sqrt{T})  )$, applicable at essentially all densities $\Omega(n) \le m \le O(n^2)$. We also prove other multi-pass lower bounds in terms of various structural parameters of the input graph. Together, our results resolve a couple of open questions raised in recent work (Braverman et al., ICALP 2013).
+
+
+Our presentation emphasizes more general frameworks, for both upper and lower bounds. We give a sampling algorithm for counting arbitrary subgraphs and then improve it via combinatorial means in the special cases of counting odd cliques and odd cycles.  Our results show that these problems are considerably easier in the cash-register streaming model than in the turnstile model, where previous work had focused (Manjunath et al., ESA 2011; Kane et al., ICALP 2012).  We use Tur&#39;an graphs and related gadgets to derive lower bounds for counting cliques and cycles, with triangle-counting lower bounds following as a corollary. " />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://skalyanb.github.io/publication/bera-2017-towards/" />
+<link rel="canonical" href="https://skalyanb.github.io/publication/bera-2017-towards/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hud3b2ade32487d77e9d8f8614ee0ad301_379041_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hud3b2ade32487d77e9d8f8614ee0ad301_379041_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:image" content="https://skalyanb.github.io/media/icon_hud3b2ade32487d77e9d8f8614ee0ad301_379041_512x512_fill_lanczos_center_3.png" />
+<meta property="og:site_name" content="Suman Kalyan Bera" />
+<meta property="og:url" content="https://skalyanb.github.io/publication/bera-2017-towards/" />
+<meta property="og:title" content="Towards Tighter Space Bounds for Counting Triangles and Other Substructures in Graph Streams | Suman Kalyan Bera" />
+<meta property="og:description" content="We revisit the much-studied problem of space-efficiently estimating the number of triangles in a graph stream, and extensions of this problem to counting fixed-sized cliques and cycles, obtaining a number of new upper and lower bounds. For the important special case of counting triangles, we give a $4$-pass, $(1\pm\varepsilon)$-approximate, randomized algorithm that needs at most $\widetilde{O}(\varepsilon^{-2}\, m^{{3}/{2}}/T)$ space, where $m$ is the number of edges and $T$ is a promised lower bound on the number of triangles. This matches the space bound of a very recent algorithm (McGregor et al., PODS 2016), with an arguably simpler and more general technique. We give an improved multi-pass lower bound of $\Omega(\min  (m^{{3}/{2}}/T, m/\sqrt{T})  )$, applicable at essentially all densities $\Omega(n) \le m \le O(n^2)$. We also prove other multi-pass lower bounds in terms of various structural parameters of the input graph. Together, our results resolve a couple of open questions raised in recent work (Braverman et al., ICALP 2013).
+
+
+Our presentation emphasizes more general frameworks, for both upper and lower bounds. We give a sampling algorithm for counting arbitrary subgraphs and then improve it via combinatorial means in the special cases of counting odd cliques and odd cycles.  Our results show that these problems are considerably easier in the cash-register streaming model than in the turnstile model, where previous work had focused (Manjunath et al., ESA 2011; Kane et al., ICALP 2012).  We use Tur&#39;an graphs and related gadgets to derive lower bounds for counting cliques and cycles, with triangle-counting lower bounds following as a corollary. " /><meta property="og:image" content="https://skalyanb.github.io/media/icon_hud3b2ade32487d77e9d8f8614ee0ad301_379041_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2020-01-09T01:14:13&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2017-01-01T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
     
-      <meta property="article:published_time" content="2020-01-09T01:14:13&#43;00:00">
-    
-    <meta property="article:modified_time" content="2020-07-29T20:16:21-07:00">
-  
-
-  
-
-
-    
-
-
 
 
 
@@ -311,7 +361,7 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
   "headline": "Towards Tighter Space Bounds for Counting Triangles and Other Substructures in Graph Streams",
   
   "datePublished": "2020-01-09T01:14:13Z",
-  "dateModified": "2020-07-29T20:16:21-07:00",
+  "dateModified": "2017-01-01T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -323,7 +373,7 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
     "name": "Suman Kalyan Bera",
     "logo": {
       "@type": "ImageObject",
-      "url": "img/https://skalyanb.github.io/"
+      "url": "https://skalyanb.github.io/media/icon_hud3b2ade32487d77e9d8f8614ee0ad301_379041_192x192_fill_lanczos_center_3.png"
     }
   },
   "description": "We revisit the much-studied problem of space-efficiently estimating the number of triangles in a graph stream, and extensions of this problem to counting fixed-sized cliques and cycles, obtaining a number of new upper and lower bounds. For the important special case of counting triangles, we give a $4$-pass, $(1\\pm\\varepsilon)$-approximate, randomized algorithm that needs at most $\\widetilde{O}(\\varepsilon^{-2}\\, m^{{3}/{2}}/T)$ space, where $m$ is the number of edges and $T$ is a promised lower bound on the number of triangles. This matches the space bound of a very recent algorithm (McGregor et al., PODS 2016), with an arguably simpler and more general technique. We give an improved multi-pass lower bound of $\\Omega(\\min  (m^{{3}/{2}}/T, m/\\sqrt{T})  )$, applicable at essentially all densities $\\Omega(n) \\le m \\le O(n^2)$. We also prove other multi-pass lower bounds in terms of various structural parameters of the input graph. Together, our results resolve a couple of open questions raised in recent work (Braverman et al., ICALP 2013).\n\n\nOur presentation emphasizes more general frameworks, for both upper and lower bounds. We give a sampling algorithm for counting arbitrary subgraphs and then improve it via combinatorial means in the special cases of counting odd cliques and odd cycles.  Our results show that these problems are considerably easier in the cash-register streaming model than in the turnstile model, where previous work had focused (Manjunath et al., ESA 2011; Kane et al., ICALP 2012).  We use Tur'an graphs and related gadgets to derive lower bounds for counting cliques and cycles, with triangle-counting lower bounds following as a corollary. "
@@ -335,53 +385,62 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
   
 
 
+
+
+  
+  
+  
+
+  
+  
+
   
 
 
   
-
-
-
-
-
   <title>Towards Tighter Space Bounds for Counting Triangles and Other Substructures in Graph Streams | Suman Kalyan Bera</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
 
 </head>
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
 
-  <aside class="search-results" id="search">
-  <div class="container">
-    <section class="search-header">
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="49f9f8ade1f65d3075f789158385c667" >
 
-      <div class="row no-gutters justify-content-between mb-3">
-        <div class="col-6">
-          <h1>Search</h1>
-        </div>
-        <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
-        </div>
-      </div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.ec9d49ca50e4b80bdb08f0417a28ed84.js"></script>
 
-      <div id="search-box">
-        
-        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
-        
-      </div>
-
-    </section>
-    <section class="section-search-results">
-
-      <div id="search-hits">
-        
-      </div>
-
-    </section>
-  </div>
-</aside>
+  
 
 
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
   
 
 
@@ -390,175 +449,251 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
 
 
 
-<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
-  <div class="container">
 
-    
-    <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Suman Kalyan Bera</a>
-    </div>
-    
 
-    
-    <button type="button" class="navbar-toggler" data-toggle="collapse"
-            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-    <span><i class="fas fa-bars"></i></span>
-    </button>
-    
 
-    
-    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Suman Kalyan Bera</a>
-    </div>
-    
 
-    
-    
-    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
 
       
-      <ul class="navbar-nav d-md-inline-flex">
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#about"><span>Home</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/pubs/"><span>Publications</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#services"><span>Services</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
-        </li>
-
-        
-        
-
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Suman Kalyan Bera</a>
+      </div>
       
 
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Suman Kalyan Bera</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
         
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/pubs/"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#services"><span>Services</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
       </ul>
+
     </div>
+  </nav>
+</header>
 
-    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
-      
-      <li class="nav-item">
-        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
-      </li>
-      
-
-      
-      <li class="nav-item">
-        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
-      </li>
-      
-
-      
-
-    </ul>
 
   </div>
-</nav>
+
+  <div class="page-body">
+    
+    
+    
+
+    
 
 
-  <div class="pub">
+
+
+
+
+
+
+<div class="pub">
 
   
+
 
 
 
@@ -594,11 +729,9 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
   <div>
     
 
-
-
-  
-  <span>Suman K. Bera</span>, <span><a href="https://www.cs.dartmouth.edu/~ac/">Amit Chakrabarti</a></span>
-
+  <span >
+      Suman K. Bera</span>, <span >
+      <a href="https://www.cs.dartmouth.edu/~ac/" target="_blank" rel="noopener">Amit Chakrabarti</a></span>
   </div>
   
   
@@ -609,7 +742,7 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
     
       
     
-    January 2017
+    January, 2017
   </span>
   
 
@@ -620,26 +753,18 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
   
   
   
+  
 
   
   
   <span class="middot-divider"></span>
   <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/categories/published/">published</a></span>
+    <i class="fas fa-folder mr-1"></i><a href="/category/published/">published</a></span>
   
 
 </div>
 
     
-
-
-
-
-
-
-
-
-
 
 
 
@@ -661,7 +786,7 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="http://drops.dagstuhl.de/opus/volltexte/2017/7022/pdf/LIPIcs-STACS-2017-11.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="http://drops.dagstuhl.de/opus/volltexte/2017/7022/pdf/LIPIcs-STACS-2017-11.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -693,12 +818,12 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract"><p>We revisit the much-studied problem of space-efficiently estimating the number of triangles in a graph stream, and extensions of this problem to counting fixed-sized cliques and cycles, obtaining a number of new upper and lower bounds. For the important special case of counting triangles, we give a $4$-pass, $(1\pm\varepsilon)$-approximate, randomized algorithm that needs at most $\widetilde{O}(\varepsilon^{-2}\, m^{{3}/{2}}/T)$ space, where $m$ is the number of edges and $T$ is a promised lower bound on the number of triangles. This matches the space bound of a very recent algorithm (McGregor et al., PODS 2016), with an arguably simpler and more general technique. We give an improved multi-pass lower bound of $\Omega(\min  (m^{{3}/{2}}/T, m/\sqrt{T})  )$, applicable at essentially all densities $\Omega(n) \le m \le O(n^2)$. We also prove other multi-pass lower bounds in terms of various structural parameters of the input graph. Together, our results resolve a couple of open questions raised in recent work (Braverman et al., ICALP 2013).</p>
-
+    <p class="pub-abstract"><p>We revisit the much-studied problem of space-efficiently estimating the number of triangles in a graph stream, and extensions of this problem to counting fixed-sized cliques and cycles, obtaining a number of new upper and lower bounds. For the important special case of counting triangles, we give a $4$-pass, $(1\pm\varepsilon)$-approximate, randomized algorithm that needs at most $\widetilde{O}(\varepsilon^{-2}, m^{{3}/{2}}/T)$ space, where $m$ is the number of edges and $T$ is a promised lower bound on the number of triangles. This matches the space bound of a very recent algorithm (McGregor et al., PODS 2016), with an arguably simpler and more general technique. We give an improved multi-pass lower bound of $\Omega(\min  (m^{{3}/{2}}/T, m/\sqrt{T})  )$, applicable at essentially all densities $\Omega(n) \le m \le O(n^2)$. We also prove other multi-pass lower bounds in terms of various structural parameters of the input graph. Together, our results resolve a couple of open questions raised in recent work (Braverman et al., ICALP 2013).</p>
 <p>Our presentation emphasizes more general frameworks, for both upper and lower bounds. We give a sampling algorithm for counting arbitrary subgraphs and then improve it via combinatorial means in the special cases of counting odd cliques and odd cycles.  Our results show that these problems are considerably easier in the cash-register streaming model than in the turnstile model, where previous work had focused (Manjunath et al., ESA 2011; Kane et al., ICALP 2012).  We use Tur&rsquo;an graphs and related gadgets to derive lower bounds for counting cliques and cycles, with triangle-counting lower bounds following as a corollary.</p>
 </p>
     
 
+    
     
     <div class="row">
       <div class="col-md-1"></div>
@@ -706,12 +831,9 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
-            
-            
             <a href="/publication/#1">
               Conference paper
             </a>
-            
           </div>
         </div>
       </div>
@@ -726,7 +848,7 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>Symposium on Theoretical Aspects of Computer Science</em> (<strong><em>STACS 2017</em></strong>)</div>
+          <div class="col-12 col-md-9"><em>Symposium on Theoretical Aspects of Computer Science</em> (<em><strong>STACS 2017</strong></em>)</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -742,23 +864,25 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
 
 
 
+
+
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/streaming-model/">Streaming Model</a>
+  <a class="badge badge-light" href="/tag/streaming-model/">Streaming Model</a>
   
-  <a class="badge badge-light" href="/tags/triangle-counting/">Triangle Counting</a>
+  <a class="badge badge-light" href="/tag/triangle-counting/">Triangle Counting</a>
   
-  <a class="badge badge-light" href="/tags/subgraph-counting/">Subgraph Counting</a>
+  <a class="badge badge-light" href="/tag/subgraph-counting/">Subgraph Counting</a>
   
-  <a class="badge badge-light" href="/tags/lower-bounds/">Lower Bounds</a>
+  <a class="badge badge-light" href="/tag/lower-bounds/">Lower Bounds</a>
   
-  <a class="badge badge-light" href="/tags/graph-algorithms/">Graph Algorithms</a>
+  <a class="badge badge-light" href="/tag/graph-algorithms/">Graph Algorithms</a>
   
 </div>
 
 
 
-<div class="share-box" aria-hidden="true">
+<div class="share-box">
   <ul class="share">
     
       
@@ -768,8 +892,12 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://skalyanb.github.io/publication/bera-2017-towards/&amp;text=Towards%20Tighter%20Space%20Bounds%20for%20Counting%20Triangles%20and%20Other%20Substructures%20in%20Graph%20Streams" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fskalyanb.github.io%2Fpublication%2Fbera-2017-towards%2F&amp;text=Towards&#43;Tighter&#43;Space&#43;Bounds&#43;for&#43;Counting&#43;Triangles&#43;and&#43;Other&#43;Substructures&#43;in&#43;Graph&#43;Streams" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -781,8 +909,12 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://skalyanb.github.io/publication/bera-2017-towards/&amp;t=Towards%20Tighter%20Space%20Bounds%20for%20Counting%20Triangles%20and%20Other%20Substructures%20in%20Graph%20Streams" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fskalyanb.github.io%2Fpublication%2Fbera-2017-towards%2F&amp;t=Towards&#43;Tighter&#43;Space&#43;Bounds&#43;for&#43;Counting&#43;Triangles&#43;and&#43;Other&#43;Substructures&#43;in&#43;Graph&#43;Streams" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -794,8 +926,14 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
       
       
       
+      
+      
+      
+      
+        
+      
       <li>
-        <a href="mailto:?subject=Towards%20Tighter%20Space%20Bounds%20for%20Counting%20Triangles%20and%20Other%20Substructures%20in%20Graph%20Streams&amp;body=https://skalyanb.github.io/publication/bera-2017-towards/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Towards%20Tighter%20Space%20Bounds%20for%20Counting%20Triangles%20and%20Other%20Substructures%20in%20Graph%20Streams&amp;body=https%3A%2F%2Fskalyanb.github.io%2Fpublication%2Fbera-2017-towards%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -807,8 +945,12 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://skalyanb.github.io/publication/bera-2017-towards/&amp;title=Towards%20Tighter%20Space%20Bounds%20for%20Counting%20Triangles%20and%20Other%20Substructures%20in%20Graph%20Streams" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fskalyanb.github.io%2Fpublication%2Fbera-2017-towards%2F&amp;title=Towards&#43;Tighter&#43;Space&#43;Bounds&#43;for&#43;Counting&#43;Triangles&#43;and&#43;Other&#43;Substructures&#43;in&#43;Graph&#43;Streams" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -820,8 +962,12 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://web.whatsapp.com/send?text=Towards%20Tighter%20Space%20Bounds%20for%20Counting%20Triangles%20and%20Other%20Substructures%20in%20Graph%20Streams%20https://skalyanb.github.io/publication/bera-2017-towards/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Towards&#43;Tighter&#43;Space&#43;Bounds&#43;for&#43;Counting&#43;Triangles&#43;and&#43;Other&#43;Substructures&#43;in&#43;Graph&#43;Streams%20https%3A%2F%2Fskalyanb.github.io%2Fpublication%2Fbera-2017-towards%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -833,8 +979,12 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://skalyanb.github.io/publication/bera-2017-towards/&amp;title=Towards%20Tighter%20Space%20Bounds%20for%20Counting%20Triangles%20and%20Other%20Substructures%20in%20Graph%20Streams" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fskalyanb.github.io%2Fpublication%2Fbera-2017-towards%2F&amp;title=Towards&#43;Tighter&#43;Space&#43;Bounds&#43;for&#43;Counting&#43;Triangles&#43;and&#43;Other&#43;Substructures&#43;in&#43;Graph&#43;Streams" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -852,131 +1002,53 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
 
 
 
-
   
   
     
-  
-  
-
-
-
-
-
-
-
-
-
-
 
 
 
 
   
+    
+
+
+
+
   
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
   </div>
 </div>
+  </div>
 
-      
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
 
-    
-    
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+  
 
-      
 
-      
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
-        
-      
 
-    
 
-    
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
-    
 
-    
-    
-    <script>const code_highlighting = true;</script>
-    
 
-    
-    
-    
-    
-    
-    
-    <script>
-      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
-      const content_type = {
-        'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'talk' : "Talks"
-        };
-    </script>
-    
-
-    
-    
-
-    
-    
-    <script id="search-hit-fuse-template" type="text/x-template">
-      <div class="search-hit" id="summary-{{key}}">
-      <div class="search-hit-content">
-        <div class="search-hit-name">
-          <a href="{{relpermalink}}">{{title}}</a>
-          <div class="article-metadata search-hit-type">{{type}}</div>
-          <p class="search-hit-description">{{snippet}}</p>
-        </div>
-      </div>
-      </div>
-    </script>
-    
-
-    
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
-    
-
-    
-    
-
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    
-    
-    
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
-
-    
 
 
 
@@ -985,31 +1057,140 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
 
   
   
-  <div class="container">
-    <footer class="site-footer">
   
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
 
   <p class="powered-by">
     
-
-    Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
-
     
-    <span class="float-right" aria-hidden="true">
-      <a href="#" class="back-to-top">
-        <span class="button_icon">
-          <i class="fas fa-chevron-up fa-2x"></i>
-        </span>
-      </a>
-    </span>
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
     
   </p>
 </footer>
 
+    </div>
+    
   </div>
+
   
+
+
+<script src="/js/vendor-bundle.min.1d4346c6f7d46c340dc0a9058dd85c13.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+<script src="/en/js/wowchemy.min.94ff8956498596ae447982c55e230726.js"></script>
+
+
+
+
+
+
 
   
 <div id="modal" class="modal fade" role="dialog">
@@ -1022,7 +1203,8 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
         </button>
       </div>
       <div class="modal-body">
-        <pre><code class="tex hljs"></code></pre>
+        
+        <pre><code></code></pre>
       </div>
       <div class="modal-footer">
         <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
@@ -1036,6 +1218,26 @@ Our presentation emphasizes more general frameworks, for both upper and lower bo
     </div>
   </div>
 </div>
+
+
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </body>
 </html>

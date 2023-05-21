@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Subgraph Counting | Suman Kalyan Bera</title>
+    <link>https://skalyanb.github.io/tag/subgraph-counting/</link>
+      <atom:link href="https://skalyanb.github.io/tag/subgraph-counting/index.xml" rel="self" type="application/rss+xml" />
+    <description>Subgraph Counting</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://skalyanb.github.io/media/icon_hud3b2ade32487d77e9d8f8614ee0ad301_379041_512x512_fill_lanczos_center_3.png</url>
+      <title>Subgraph Counting</title>
+      <link>https://skalyanb.github.io/tag/subgraph-counting/</link>
+    </image>
+    
+    <item>
+      <title>Counting Subgraphs in Degenerate Graphs</title>
+      <link>https://skalyanb.github.io/publication/bera-2022-jacm/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2022-jacm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Near-Linear Time Homomorphism Counting in Bounded Degeneracy Graphs: The Barrier of Long Induced Cycles</title>
+      <link>https://skalyanb.github.io/publication/bera-2020-homomorphism/</link>
+      <pubDate>Mon, 27 Jul 2020 22:36:32 -0700</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2020-homomorphism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Count Triangles, without Seeing the Whole Graph</title>
+      <link>https://skalyanb.github.io/publication/bera-2020-random_walk/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2020-random_walk/</guid>
+      <description>&lt;p&gt;Here is a 2 min promotional video of our work. For the video of the full talk, &lt;a href=&#34;https://www.youtube.com/watch?v=a0h8qbhAnzQ&amp;amp;amp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/443858661&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>How the Degeneracy Helps for Triangle Counting in Graph Streams</title>
+      <link>https://skalyanb.github.io/publication/bera-2020-degen/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2020-degen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Time Subgraph Counting, Graph Degeneracy, and the Chasm at Size Six</title>
+      <link>https://skalyanb.github.io/publication/bera-2020-linear/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2020-linear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Tighter Space Bounds for Counting Triangles and Other Substructures in Graph Streams</title>
+      <link>https://skalyanb.github.io/publication/bera-2017-towards/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2017-towards/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

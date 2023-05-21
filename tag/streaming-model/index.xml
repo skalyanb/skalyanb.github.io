@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Streaming Model | Suman Kalyan Bera</title>
+    <link>https://skalyanb.github.io/tag/streaming-model/</link>
+      <atom:link href="https://skalyanb.github.io/tag/streaming-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Streaming Model</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://skalyanb.github.io/media/icon_hud3b2ade32487d77e9d8f8614ee0ad301_379041_512x512_fill_lanczos_center_3.png</url>
+      <title>Streaming Model</title>
+      <link>https://skalyanb.github.io/tag/streaming-model/</link>
+    </image>
+    
+    <item>
+      <title>How the Degeneracy Helps for Triangle Counting in Graph Streams</title>
+      <link>https://skalyanb.github.io/publication/bera-2020-degen/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2020-degen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Coloring via Degeneracy in Streaming and Other Space-Conscious Models</title>
+      <link>https://skalyanb.github.io/publication/bera-2019-graph/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2019-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Tighter Space Bounds for Counting Triangles and Other Substructures in Graph Streams</title>
+      <link>https://skalyanb.github.io/publication/bera-2017-towards/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2017-towards/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

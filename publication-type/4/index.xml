@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Suman Kalyan Bera</title>
+    <link>https://skalyanb.github.io/publication-type/4/</link>
+      <atom:link href="https://skalyanb.github.io/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://skalyanb.github.io/media/icon_hud3b2ade32487d77e9d8f8614ee0ad301_379041_512x512_fill_lanczos_center_3.png</url>
+      <title>4</title>
+      <link>https://skalyanb.github.io/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>Fenchel Duals for Drifting Adversaries</title>
+      <link>https://skalyanb.github.io/publication/bera-2013-fenchel/</link>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2013-fenchel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced Bloom Filter Based Algorithms for Efficient Approximate Data De-Duplication in Streams</title>
+      <link>https://skalyanb.github.io/publication/bera-2012-advanced/</link>
+      <pubDate>Mon, 17 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2012-advanced/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

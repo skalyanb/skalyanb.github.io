@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Suman Kalyan Bera</title>
+    <link>https://skalyanb.github.io/publication-type/3/</link>
+      <atom:link href="https://skalyanb.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jul 2020 21:33:11 -0700</lastBuildDate>
+    <image>
+      <url>https://skalyanb.github.io/media/icon_hud3b2ade32487d77e9d8f8614ee0ad301_379041_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://skalyanb.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Distributional Individual Fairness in Clustering</title>
+      <link>https://skalyanb.github.io/publication/anderson-2020-distributional/</link>
+      <pubDate>Mon, 27 Jul 2020 21:33:11 -0700</pubDate>
+      <guid>https://skalyanb.github.io/publication/anderson-2020-distributional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://skalyanb.github.io/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

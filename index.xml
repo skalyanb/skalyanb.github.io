@@ -5,9 +5,9 @@
     <link>https://skalyanb.github.io/</link>
       <atom:link href="https://skalyanb.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Suman Kalyan Bera</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://skalyanb.github.io/images/icon_hud3b2ade32487d77e9d8f8614ee0ad301_379041_512x512_fill_lanczos_center_2.png</url>
+      <url>https://skalyanb.github.io/media/icon_hud3b2ade32487d77e9d8f8614ee0ad301_379041_512x512_fill_lanczos_center_3.png</url>
       <title>Suman Kalyan Bera</title>
       <link>https://skalyanb.github.io/</link>
     </image>
@@ -17,30 +17,18 @@
       <link>https://skalyanb.github.io/services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/services/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Quickly discover relevant content by &lt;a href=&#34;https://skalyanb.github.io/publication/&#34;&gt;filtering publications&lt;/a&gt;.
-  &lt;/div&gt;
-&lt;/div&gt;
-
---&gt;
-
-&lt;p&gt;&lt;strong&gt;Program Committee:&lt;/strong&gt;&lt;/p&gt;
-
+      <description>&lt;p&gt;&lt;strong&gt;Program Committee:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www2022.thewebconf.org/&#34;&gt;The Web Conference 2022 (formerly known as WWW)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://databasetheory.org/node/120&#34;&gt;The International Conference on Database Theory (ICDT) 2022&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www2021.thewebconf.org/&#34;&gt;The Web Conference 2021 (formerly known as WWW)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.siam.org/conferences/cm/conference/sdm21&#34;&gt;SDM 2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www2022.thewebconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Web Conference 2022 (formerly known as WWW)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://databasetheory.org/node/120&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The International Conference on Database Theory (ICDT) 2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www2021.thewebconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Web Conference 2021 (formerly known as WWW)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.siam.org/conferences/cm/conference/sdm21&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SDM 2021&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;&lt;strong&gt;Reviewer:&lt;/strong&gt;&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://aistats.org/aistats2022/index.html&#34;&gt;AISTATS&lt;/a&gt; (2022), &lt;a href=&#34;https://dl.acm.org/conference/soda&#34;&gt;SODA&lt;/a&gt; (2019, 2020, 2021),
-&lt;a href=&#34;https://www.fsttcs.org.in/2020/&#34;&gt;FSTTCS&lt;/a&gt; (2020),
-&lt;a href=&#34;http://eatcs.org/index.php/conferences&#34;&gt;ICALP&lt;/a&gt; (2018), &lt;a href=&#34;https://computationalcomplexity.org/&#34;&gt;CCC&lt;/a&gt; (2017),  &lt;a href=&#34;https://www.cambridge.org/core/journals/network-science&#34;&gt;Network Science&lt;/a&gt; etc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://aistats.org/aistats2022/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AISTATS&lt;/a&gt; (2022), &lt;a href=&#34;https://dl.acm.org/conference/soda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SODA&lt;/a&gt; (2019, 2020, 2021),
+[FSTTCS] (&lt;a href=&#34;https://www.fsttcs.org.in/2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.fsttcs.org.in/2020/&lt;/a&gt;) (2020),
+&lt;a href=&#34;http://eatcs.org/index.php/conferences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICALP&lt;/a&gt; (2018), &lt;a href=&#34;https://computationalcomplexity.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCC&lt;/a&gt; (2017),  &lt;a href=&#34;https://www.cambridge.org/core/journals/network-science&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Network Science&lt;/a&gt; etc.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -50,22 +38,12 @@
       <link>https://skalyanb.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/teaching/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Quickly discover relevant content by &lt;a href=&#34;https://skalyanb.github.io/publication/&#34;&gt;filtering publications&lt;/a&gt;.
-  &lt;/div&gt;
-&lt;/div&gt;
-
---&gt;
-
-&lt;p&gt;I have served as a Teaching Assistant for the following courses.&lt;/p&gt;
-
+      <description>&lt;p&gt;I have served as a Teaching Assistant for the following courses.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Machine Learning and Statistical Data Analysis (&lt;a href=&#34;https://www.cs.dartmouth.edu/~lorenzo/teaching/cs174/Archive/Spring2016/&#34;&gt;CS74/CS174&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Algorithms (&lt;a href=&#34;https://www.cs.dartmouth.edu/~ac/Teach/CS31-Spring17/&#34;&gt;CS31&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Discrete Mathematics in Computer Science (&lt;a href=&#34;https://www.cs.dartmouth.edu/~ac/Teach/CS30-Fall15/&#34;&gt;CS30&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Theory of Computation (&lt;a href=&#34;https://www.cs.dartmouth.edu/~ac/Teach/CS39-Spring18/&#34;&gt;CS39&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Machine Learning and Statistical Data Analysis (&lt;a href=&#34;https://www.cs.dartmouth.edu/~lorenzo/teaching/cs174/Archive/Spring2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS74/CS174&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Algorithms (&lt;a href=&#34;https://www.cs.dartmouth.edu/~ac/Teach/CS31-Spring17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS31&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Discrete Mathematics in Computer Science (&lt;a href=&#34;https://www.cs.dartmouth.edu/~ac/Teach/CS30-Fall15/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS30&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Theory of Computation (&lt;a href=&#34;https://www.cs.dartmouth.edu/~ac/Teach/CS39-Spring18/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS39&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Computer Architecture&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -100,12 +78,11 @@
       <link>https://skalyanb.github.io/publication/bera-2020-random_walk/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/publication/bera-2020-random_walk/</guid>
-      <description>&lt;p&gt;Here is a 2 min promotional video of our work. For the video of the full talk, &lt;a href=&#34;https://www.youtube.com/watch?v=a0h8qbhAnzQ&amp;amp;amp&#34;&gt;click here&lt;/a&gt;.&lt;/p&gt;
-
+      <description>&lt;p&gt;Here is a 2 min promotional video of our work. For the video of the full talk, &lt;a href=&#34;https://www.youtube.com/watch?v=a0h8qbhAnzQ&amp;amp;amp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;click here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/443858661&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/443858661&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 </description>
     </item>
@@ -135,6 +112,20 @@
     </item>
     
     <item>
+      <title>An example preprint / working paper</title>
+      <link>https://skalyanb.github.io/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Fair Algorithms for Clustering</title>
       <link>https://skalyanb.github.io/publication/bera-2019-fair/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -145,7 +136,7 @@
     <item>
       <title>News</title>
       <link>https://skalyanb.github.io/news/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/news/</guid>
       <description>
 
@@ -157,27 +148,39 @@
 
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;[Mar 2022]&lt;/strong&gt; At &lt;a href=&#34;https://katanagraph.com/&#34;&gt;Katana Graph&lt;/a&gt;, we have developed a simple graph neural network (gnn) based AI model SimGCN that is dominating the leaderboards at &lt;a href=&#34;https://tdcommons.ai/&#34;&gt;TDC&lt;/a&gt; &lt;a href=&#34;https://tdcommons.ai/benchmark/admet_group/overview/&#34;&gt;ADMET Benchmark Group&lt;/a&gt;! Check out our &lt;a href=&#34;https://github.com/KatanaGraph/SimGCN-TDC/blob/main/Report_SimGCN_for_TDC_Benchmarks.pdf&#34;&gt;report&lt;/a&gt; and &lt;a href=&#34;https://github.com/KatanaGraph/SimGCN-TDC&#34;&gt;Github repo&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;[Feb 2022]&lt;/strong&gt; Excited to serve on the program committee of &lt;a href=&#34;https://facctconference.org/2022/index.html&#34;&gt;ACM FAccT Conference 2022&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;[Jan 2022]&lt;/strong&gt; Two papers accepted at &lt;a href=&#34;https://www2022.thewebconf.org/&#34;&gt;the Web Conference&lt;/a&gt;! Details to be updated soon.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;[Nov 2021]&lt;/strong&gt; Our paper titled &lt;em&gt;Counting Subgraphs in Degenerate Graphs&lt;/em&gt; has been accepted for publications at the &lt;a href=&#34;https://dl.acm.org/journal/jacm&#34;&gt;Journal of the ACM&lt;/a&gt;! Arxiv preprint will be posted soon.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;[Oct 2021]&lt;/strong&gt; Serving on the program committee of &lt;a href=&#34;https://www2022.thewebconf.org/&#34;&gt;The Web Conference 2022&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;[June 2021]&lt;/strong&gt; Excited to join the Graph AI team at &lt;a href=&#34;https://katanagraph.com/&#34;&gt;Katana Graph&lt;/a&gt;, a start-up that is providing a distributed scalable graph intelligence platform!&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;[Feb 2021]&lt;/strong&gt; Serving on the program committee of &lt;a href=&#34;https://databasetheory.org/node/120&#34;&gt;The International Conference on Database Theory (ICDT)&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;[Jan 2021]&lt;/strong&gt; Attend the talk on our paper titled &lt;em&gt;Near-Linear Time Homomorphism Counting in Bounded Degeneracy Graphs: The Barrier of Long Induced Cycles&lt;/em&gt; at SODA 2021. &lt;a href=&#34;https://meetings.siam.org/sess/dsp_talk.cfm?p=110435&#34;&gt;Details here&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;[Oct 2020]&lt;/strong&gt; Our paper titled &lt;em&gt;Near-Linear Time Homomorphism Counting in Bounded Degeneracy Graphs: The Barrier of Long Induced Cycles&lt;/em&gt; has been accepted for publications at SODA 2021! &lt;a href=&#34;https://arxiv.org/pdf/2010.08083.pdf&#34;&gt;Arxiv Preprint&lt;/a&gt; is now available!&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;[Oct 2020]&lt;/strong&gt; Serving on the program committee of &lt;a href=&#34;https://www2021.thewebconf.org/&#34;&gt;The Web Conference 2021&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;[June 2020]&lt;/strong&gt; &lt;em&gt;New paper at KDD!&lt;/em&gt; Our paper titled &lt;em&gt;How to Count Triangles, without Seeing the Whole Graph&lt;/em&gt; has ben accepted for publications at KDD 2020! &lt;a href=&#34;https://arxiv.org/pdf/2006.11947.pdf&#34;&gt;Arxiv Preprint&lt;/a&gt; is now available!&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;[Mar 2022]&lt;/strong&gt; At &lt;a href=&#34;https://katanagraph.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Katana Graph&lt;/a&gt;, we have developed a simple graph neural network (gnn) based AI model SimGCN that is dominating the leaderboards at &lt;a href=&#34;https://tdcommons.ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TDC&lt;/a&gt; &lt;a href=&#34;https://tdcommons.ai/benchmark/admet_group/overview/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ADMET Benchmark Group&lt;/a&gt;! Check out our [report] (&lt;a href=&#34;https://github.com/KatanaGraph/SimGCN-TDC/blob/main/Report_SimGCN_for_TDC_Benchmarks.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/KatanaGraph/SimGCN-TDC/blob/main/Report_SimGCN_for_TDC_Benchmarks.pdf&lt;/a&gt;) and &lt;a href=&#34;https://github.com/KatanaGraph/SimGCN-TDC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github repo&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;[Feb 2022]&lt;/strong&gt; Excited to serve on the program committee of &lt;a href=&#34;https://facctconference.org/2022/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM FAccT Conference 2022&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;[Jan 2022]&lt;/strong&gt; Two papers accepted at &lt;a href=&#34;https://www2022.thewebconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the Web Conference&lt;/a&gt;! Details to be updated soon.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;[Nov 2021]&lt;/strong&gt; Our paper titled &lt;em&gt;Counting Subgraphs in Degenerate Graphs&lt;/em&gt; has been accepted for publications at the &lt;a href=&#34;https://dl.acm.org/journal/jacm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of the ACM&lt;/a&gt;! Arxiv preprint will be posted soon.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;[Oct 2021]&lt;/strong&gt; Serving on the program committee of &lt;a href=&#34;https://www2022.thewebconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Web Conference 2022&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;[June 2021]&lt;/strong&gt; Excited to join the Graph AI team at &lt;a href=&#34;https://katanagraph.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Katana Graph&lt;/a&gt;, a start-up that is providing a distributed scalable graph intelligence platform!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;[Feb 2021]&lt;/strong&gt; Serving on the program committee of &lt;a href=&#34;https://databasetheory.org/node/120&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The International Conference on Database Theory (ICDT)&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;[Jan 2021]&lt;/strong&gt; Attend the talk on our paper titled &lt;em&gt;Near-Linear Time Homomorphism Counting in Bounded Degeneracy Graphs: The Barrier of Long Induced Cycles&lt;/em&gt; at SODA 2021. &lt;a href=&#34;https://meetings.siam.org/sess/dsp_talk.cfm?p=110435&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Details here&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;[Oct 2020]&lt;/strong&gt; Our paper titled &lt;em&gt;Near-Linear Time Homomorphism Counting in Bounded Degeneracy Graphs: The Barrier of Long Induced Cycles&lt;/em&gt; has been accepted for publications at SODA 2021! &lt;a href=&#34;https://arxiv.org/pdf/2010.08083.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arxiv Preprint&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;[Oct 2020]&lt;/strong&gt; Serving on the program committee of &lt;a href=&#34;https://www2021.thewebconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Web Conference 2021&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;[June 2020]&lt;/strong&gt; &lt;em&gt;New paper at KDD!&lt;/em&gt; Our paper titled &lt;em&gt;How to Count Triangles, without Seeing the Whole Graph&lt;/em&gt; has ben accepted for publications at KDD 2020! &lt;a href=&#34;https://arxiv.org/pdf/2006.11947.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arxiv Preprint&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
@@ -189,6 +192,25 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/publication/bera-2017-towards/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://skalyanb.github.io/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -213,6 +235,25 @@
       <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/publication/bera-2013-fenchel/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://skalyanb.github.io/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
