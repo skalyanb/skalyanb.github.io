@@ -5,12 +5,36 @@
     <link>https://skalyanb.github.io/publication-type/1/</link>
       <atom:link href="https://skalyanb.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jul 2020 22:36:32 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://skalyanb.github.io/media/icon_hud3b2ade32487d77e9d8f8614ee0ad301_379041_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://skalyanb.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>DeMEtRIS: Counting (near)-Cliques by Crawling</title>
+      <link>https://skalyanb.github.io/publication/bera-2023-wsdm-demerits/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2023-wsdm-demerits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Dynamic Algorithm for Densest Subhypergraphs</title>
+      <link>https://skalyanb.github.io/publication/bera-2022-dense/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2022-dense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fair k-Center Clustering in MapReduce and Streaming Settings</title>
+      <link>https://skalyanb.github.io/publication/bera-2022-fairk/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://skalyanb.github.io/publication/bera-2022-fairk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Near-Linear Time Homomorphism Counting in Bounded Degeneracy Graphs: The Barrier of Long Induced Cycles</title>
@@ -80,25 +104,6 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://skalyanb.github.io/publication/bera-2015-depth/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://skalyanb.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://skalyanb.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
